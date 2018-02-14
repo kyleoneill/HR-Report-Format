@@ -1,0 +1,91 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 08-SEP-2017 thru 14-SEP-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+Acevedo,Silvestre            NEW                                         442-5210 School of Criminal Justice      Lecturer (10 Month)           09/08/2017 
+                                                                                  Draper 219                         
+Agyakwa,Chelsea              NEW                                         442-5180 Educational Opportunity Prgrm   Research Aide                 09/11/2017 
+                                                                                  LI 94                              
+Andrade,Karyn Teressa        GONE                                        591-8767 Public Administration & Policy  Lecturer (10 Month)           09/05/2017 
+                                                                                  Milne 115                          
+Baldwin,Evelyn               CHG-ADDRESS  Business Administration 327    442-3347 Writing and Critical Inquiry    Lecturer (10 Month)           09/13/2017 
+                                                                                  LI B96O                            
+Carozza,Jesse C              GONE                                        442-4400 Chemistry                       Lecturer (10 Month)           09/01/2017 
+                                                                                  Chemistry 123                      
+Carroll,Sarah F              NEW                                         956-8150 Vice President Communications a Communications Specialist     09/11/2017 
+                                                                                  University Hall 203                
+Doynow,William James         GONE                                        442-5258 Col EmerPrep HomeSec CybSerc    Lecturer (10 Month)           09/05/2017 
+                                                                                  Draper 340                         
+Eaddy,DeChanta Nicole        CHG-NAME     Frazier,Dechanta Nicole        956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player          09/13/2017 
+                                                                                  4 Tower Place Suite 600            
+Eisenberg,Jordan D           NEW                                         442-3420 Bus Services                    Bus Driver                    09/12/2017 
+                                                                                  SBA Annex                          
+Furgiuele,Andrew             NEW                                         442-3971 Advisement Services Center/ Und Staff Assistant               09/14/2017 
+                                                                                  LI 36                              
+Garcelon,Paul R              GONE                                        442-3284 Paint & Sign Shop               Maintenance Assistant         09/07/2017 
+                                                                                  SBA                                
+Goodall,Jennifer J           CHG-ADDRESS  LI 84                          956-8247 Informatics                     Assistant Dean                09/13/2017 
+                                                                                  Draper 141D                        
+Horn,Jennifer                NEW                                         442-4644 Provost & VP- Academic Affairs  Applied Learning Prog Coord   09/11/2017 
+                                                                                  Social Science 138A                
+Kaleel,Lovene                NEW                                         442-4391 Custodial Services              Cleaner                       09/13/2017 
+                                                                                  SBA                                
+Kaur,Simranpreet             NEW                                         442-4400 Inst for RNA Science & Techn    Research Aide                 09/13/2017 
+                                                                                  LSRB 2015                          
+Lyons,Christopher M          NEW                                         442-3706 Custodial Services              Cleaner                       09/12/2017 
+                                                                                                                     
+Marando,Christine M          GONE                                        442-5244 Dean's Office--Rockefeller Coll Office Assistant 1            09/08/2017 
+                                                                                  Milne 102                          
+McMahon,Glenn A              GONE                                        442-3434 Architecture, Engineering & Con Maintenance Assistant         09/08/2017 
+                                                                                  SBC                                
+Meredith,Brent R             NEW                                         442-3400 Facilities Management           Asst. Project Mgr.            09/11/2017 
+                                                                                  SBA                                
+Morales Arauz,Andrea Nicole  NEW                                         442-5180 Educational Opportunity Prgrm   Research Aide                 09/14/2017 
+                                                                                  LI 94                              
+Nicolas,Sabrina Patina       NEW                                         442-5180 Educational Opportunity Prgrm   Research Aide                 09/08/2017 
+                                                                                  LI 94                              
+Oddi,Jay T                   GONE                                        442-4651 Dean's Office--College of Arts  Staff Associate/Assnt to Dean 09/08/2017 
+                                                                                  Arts & Sciences 217                
+Orosz,Theodore V             NEW                                         442-4636 Geography & Planning            Lecturer (10 Month)           09/12/2017 
+                                                                                  Arts & Sciences 218                
+Orr,Ryan Michael             CHG-ADDRESS  Humanities 333                 442-3347 Writing and Critical Inquiry    Visiting Assistant Professor  09/13/2017 
+                                                                                  LI B96                             
+Ortiz,Samuel D               NEW                                         442-5180 Educational Opportunity Prgrm   Research Aide                 09/08/2017 
+                                                                                  LI 94                              
+Riggins,Shemisha S           GONE                                        402-0281 Dean's Office --School of Publi Office Assistant 1            09/07/2017 
+                                                                                  Health Sciences Campus GEC 100     
+Riggins,Shemisha S           NEW                                         402-0281 Dean's Off-School of Pub Hlt    Office Assistant 1            09/12/2017 
+                                                                                  Health Sciences Campus GEC 100     
+Rodriguez,Havidan            NEW                                         956-8010 President's Office              President                     09/13/2017 
+                                                                                  University Hall 302                
+Shawky,Hany A                CHG-ADDRESS  Business Administration 311    956-8370 Dean's Office--School of Busine Dean of Business              09/13/2017 
+                                                                                  Business Building 303              
+Smith Wilson,Angelia L       GONE                                        442-5320 School of Social Welfare        Lecturer (10 Month)           08/31/2017 
+                                                                                  Richardson 121                     
+Smith,Jess                   NEW                                         442-3397 University Libraries            Library Clerk 3               09/14/2017 
+                                                                                  LI 119                             
+Spensieri,Anthony A          GONE                                        442-3637 University Police Department    Camp Public Sfty Officer 1    08/09/2017 
+                                                                                  University Police Building         
+Stellar,James R              CHG-DEPTid   President's Office             956-8030 Provost & VP- Academic Affairs  Provost & Sr. VP for Academic 09/12/2017 
+                                                                                  University Hall 308                
+Sweeney,Michael J            CHG-DEPTid   University Libraries           442-3638 Enterprise Application Services Sol Manager, Bus and Res      09/12/2017 
+                                                                                  LI B35A                            
+Urena,Moises L               NEW                                                  Educational Opportunity Prgrm   Research Aide                 09/14/2017 
+                                                                                  LI94                               
+Vozzo,Melissa Adele          NEW                                         956-8300 Residential Life                Office Assistant 1 (Keyboardi 09/13/2017 
+                                                                                  Liberty Terrace Apartments         
+Vozzo,Melissa Adele          NEW                                         956-8300 Residential Life                Office Assistant 1 (Keyboardi 09/14/2017 
+                                                                                  Liberty Terrace Apartments         
+Wheeler,Darrell P            CHG-DEPTid   Provost & VP- Academic Affairs 956-8030 School of Social Welfare        Dean (Social Welfare)         09/08/2017 
+                                                                                  University Hall 308                
+Woofenden,Emily M            NEW                                         442-5055 Educational & Counseling Psych  Lecturer (10 Month)           09/12/2017 
+                                                                                  Education 233                      
+Zhang-Benavot,Jing           CHG-NAME     Zhang,Jing                     591-8172 Center for International Educat Senior Staff Assistant        09/13/2017 
+                                                                                  SL G40                             
+Zhou,Baojian                 NEW                                         437-4940 Computer Science                Research Project Assistant    09/08/2017 
+                                                                                  University Administration 426      
+Zhou,Xin                     GONE                                        442-4871 Communication                   Lecturer (10 Month)           09/06/2017 
+                                                                                  Social Science 328                 
+                         ******** end of report uahrxtel.txt **********                                                                               

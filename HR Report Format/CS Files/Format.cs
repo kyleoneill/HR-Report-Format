@@ -45,15 +45,5 @@ namespace HR_Report_Format
 				}
 			}
 		}
-
-		public static void CheckDirectory(string dir)
-		{
-			if (!Directory.Exists(dir))
-			{
-				Console.WriteLine("The path " + dir + " does not currently exist. Are you missing the desktop folder?");
-				Thread.Sleep(10000);
-				Environment.Exit(0);
-			}
-		}
 	}
 }

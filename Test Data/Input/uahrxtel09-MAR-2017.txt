@@ -1,0 +1,641 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 03-MAR-2017 thru 09-MAR-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+Agustin,Edgar                NEW                                         442-4400 Chemistry                       Research Assistant 08         03/06/2017 
+                                                                                  Life Science Building 1118         
+Aini,Joseph P                CHG-ADDRESS  Science Library G50-G          437-4922 Career & Professional Developme Sr Career Plang & Dev  Assoc  03/03/2017 
+                                                                                  SL G50-G                           
+Alberico,JoAnn               CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player-Advanced 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Allen,Marissa L              CHG-ADDRESS  Pysical Education B107         442-2611 Campus Recreation               Asst Dir, Intra & Club Sports 03/03/2017 
+                                                                                  Physical Education B107            
+Altone,Edmund Russell        CHG-ADDRESS  East Campus 177                402-0330                                 Lecturer (10 Month)           03/03/2017 
+                                                                                  Health Sciences Campus 177         
+Altone,Edmund Russell        CHG-ADDRESS  East Campus 177                402-0330 Health Policy                   Lecturer (10 Month)           03/03/2017 
+                                                                                  Health Sciences Campus 177         
+Amoroso,Jaclyn S             CHG-ADDRESS  Writing and Critical Inquiry P          Writing and Critical Inquiry    Lecturer (10 Month)           03/03/2017 
+                                                                                  Business Administration 325        
+Anderson,Carl L              GONE                                        956-8214 Admissions                      Admissions Advisor            03/06/2017 
+                                                                                  University Hall 112                
+Anderson,Carl L              NEW                                         956-8214 Admissions                      Admissions Advisor            03/07/2017 
+                                                                                  University Hall 112                
+Anderson,Jennifer            CHG-ADDRESS  Office of Student Inv & Leader 442-5566 Student Involvement & Leadershi Assoc. Dir. of St. Involvemen 03/03/2017 
+                                                                                  Campus Center 130                  
+Anderson,Kimberly R          CHG-ADDRESS  East Campus GEC 157            402-0416 Environmental Health Sciences   Assistant Professor           03/03/2017 
+                                                                                  Health Sciences Campus GEC 157     
+Appleton,Allison A           CHG-ADDRESS  East Campus GEC 130            402-0372 Epidemiology & Biostatistics    Assistant Professor  10 Month 03/03/2017 
+                                                                                  Health Sciences Campus GEC 130     
+Armao,Rosemary C             CHG-ADDRESS  Social Science 373             442-4997 Communication                   Assoc Prof & Dir of Journalis 03/03/2017 
+                                                                                  Social Sciences 373                
+Arrastia,Lisa S              CHG-ADDRESS  Business Administration, Room           Writing and Critical Inquiry    Lecturer (10 Month)           03/03/2017 
+                                                                                  Business Administration 316        
+Arrington,Tammy              CHG-ADDRESS  East Campus A305               525-2604 Student Loan Service Center     Student Loan Control Represen 03/03/2017 
+                                                                                  Health Sciences Campus A305        
+Auffant II,Fabio R           CHG-ADDRESS  1400 Washington Avenue         956-8341 Information Technology Manageme Lecturer--10 Month            03/03/2017 
+                                                                                  Business Building 335              
+Avci,Bilge                   CHG-ADDRESS  135 Western Avenue Draper Hall 591-8762 Center for Women Goverment & Ci Research Assistant            03/03/2017 
+                                                                                  Draper 302                         
+Baker,Katherine M            CHG-ADDRESS  6 Executive Park Drive         380-5073 Small Business Development Cent Staff Assistant               03/03/2017 
+                                                                                  6 Executive Park Drive Entrance B  
+Baldwin,Evelyn               CHG-ADDRESS  Business Administration Rm 327          Writing and Critical Inquiry    Lecturer (10 Month)           03/03/2017 
+                                                                                  Business Administration 327        
+Baldwin,Jennifer Lee         CHG-ADDRESS  Universitiy Police Building    442-3130 University Police Department    Admin Police Inspector        03/03/2017 
+                                                                                  University Police Building         
+Baldwin,John W               CHG-ADDRESS  Service Building A (SBA)       442-3874 Architecture, Engineering & Con Senior Staff Associate        03/03/2017 
+                                                                                  SBA 207                            
+Baltzel,Patricia M           CHG-ADDRESS  East Campus A305               525-2617 Student Loan Service Center     Assnt Univ Financial Anal 08  03/03/2017 
+                                                                                  Health Sciences Campus A305        
+Barnes,Steven B              CHG-ADDRESS  Social Science 362             442-2647 Communication                   Lecturer (10 Month)           03/03/2017 
+                                                                                  Social Sciences 362                
+Bart,Joseph A                CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Subj. Matter Expert Instructo 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Bartolomeo,Daniel M          CHG-ADDRESS  Physic 227                     442-4501 Physics                         Lecturer (10 Month)           03/03/2017 
+                                                                                  Physics 227                        
+Bartoszek,Mary M             CHG-ADDRESS  Social Science 351A            591-8628 Communication                   Admin Manager, Dept of Comm   03/03/2017 
+                                                                                  Social Sciences 351A               
+Bass,Arthur J                CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player          03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Bass,David P                 CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player          03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Bass,Thomas A                CHG-ADDRESS  Social Science 343             442-4077 English                         Professor                     03/03/2017 
+                                                                                  Social Sciences 343                
+Bates,Barbara                CHG-ADDRESS  East Campus GEC 200            402-0330 School of Public Health Continu PRI Instructor                03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Bates,Nicole M               CHG-ADDRESS  East Campus 300                525-2602 Student Loan Service Center     Student Loan Control Rep 2    03/03/2017 
+                                                                                  Health Sciences Campus 300         
+Baumstein,Jay H              CHG-ADDRESS  Service Building A             442-5158 Architecture, Engineering & Con Senior Staff Assistant        03/03/2017 
+                                                                                  SBA                                
+Belfort,Marlene              CHG-ADDRESS  LSRB 2061                      437-4466 Biology                         Dist Prof & Dir Lf Sci Rch Bl 03/03/2017 
+                                                                                  Life Science Building 2061         
+Bell,Erin M                  CHG-ADDRESS  East Campus 155                402-0375 Environmental Health Sciences   Associate Professor   10 Mont 03/03/2017 
+                                                                                  Health Sciences Campus 155         
+Berman,Elizabeth P           CHG-ADDRESS  1400 Washington Ave. AS 351    442-4675 Sociology                       Associate Professor (10 Mo)   03/03/2017 
+                                                                                  Arts & Sciences 351                
+Bernardi,Susan A             CHG-ADDRESS  East Campus GEC 100            408-2341 Dean's Office --School of Publi Pub Hlth Leadrs Tomorrow Cord 03/03/2017 
+                                                                                  Health Sciences Campus GEC 100     
+Bessette,Thomas M            CHG-ADDRESS  LC SB 31                       442-3710 Client Support Services         SoftwareApplication Instructo 03/03/2017 
+                                                                                  Lecture Center SB 31               
+Best,Jonathan                CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Subj. Matter Expert Instructo 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Biggi,Sandra L               CHG-ADDRESS  East Campus,  Room 100         402-0281 School of Public Health Continu PRI Instructor                03/03/2017 
+                                                                                  Health Sciences Campus 100         
+Black,Steven J               CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player-Advanced 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Bleyenburg,Dawn M            CHG-ADDRESS  East Campus 200 GEC            402-0335 School of Public Health Continu Director                      03/03/2017 
+                                                                                  Health Sciences Campus 200 GEC     
+Bloom,Joel D                 GONE                                        437-4791 Institutional Research          Dir Assessment & Survey Rsch  03/03/2017 
+                                                                                  Milne 106A                         
+Bloom,Michael S              CHG-ADDRESS  East Campus 157                473-1821 Environmental Health Sciences   Associate Professor   10 Mont 03/03/2017 
+                                                                                  Health Sciences Campus 157         
+Boehlert,Paul A              CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player          03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Bogolub,David                CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Subj. Matter Expert Instructo 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Bonesteel,Linda L            CHG-ADDRESS  East Campus A310               525-2605 Student Loan Service Center     Student Loan Control Represen 03/03/2017 
+                                                                                  Health Sciences Campus A310        
+Borbee,Steven J              CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Subj. Matter Expert Instructo 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Bornt,Kelsey Christine       NEW                                         442-3121 Parking & Mass Transit Service  Office Assistant 1            03/08/2017 
+                                                                                  Parking Management                 
+Borse,Lalitkumar Vishwasrao  GONE                                        442-5873 Center for Technology in Govern Program Assistant             03/08/2017 
+                                                                                  187 Wolf Road Suite 301            
+Bosco,Ronald A               CHG-ADDRESS  Emeritus - NONE                442-4389 English                         Distinguished Research Profes 03/03/2017 
+                                                                                  Humanities 333                     
+Boyle,Jodi B                 CHG-ADDRESS  Science Library 353            437-3932 University Libraries            Supervisory Archivist         03/03/2017 
+                                                                                  SL 353                             
+Bozlak,Christine T           CHG-ADDRESS  East Campus  GEC 173           402-0299 Health Policy                   Assistant Professor (10 Mo)   03/03/2017 
+                                                                                  Health Sciences Campus  GEC 173    
+Brady,Thomas J               CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Subj. Matter Expert Instructo 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Brannigan,Elizabeth A        CHG-ADDRESS  East Campus 179                402-0333 Health Policy                   Secretary I                   03/03/2017 
+                                                                                  Health Sciences Campus 179         
+Braunstein,James D           CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Subj. Matter Expert Instructo 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Brigham,William E            CHG-ADDRESS  6 Executive Park Drive                  Small Business Development Cent Director                      03/03/2017 
+                                                                                  6 Executive Park Drive Entrance B  
+Brooks,Susan E               CHG-ADDRESS  East Campus 202                402-4203 School of Public Health Continu Online Production Assistant   03/03/2017 
+                                                                                  Health Sciences Campus 202         
+Brown Jr.,Scott T            CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player          03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Brown,Russell P              CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player          03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Brown,Scott L                CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Subj. Matter Expert Instructo 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Bucher,Andrew J              CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player          03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Buttermore,Kara M            CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player          03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Butterworth,James R          CHG-ADDRESS  East Campus A409               512-5198 Educational Admin. & Policy St  Visiting Associate Professor  03/03/2017 
+                                                                                  Health Sciences Campus A409        
+Carey,Ann                    CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player          03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Carl,Ryan W                  CHG-ADDRESS  Computer Science 9             442-3700 Client Support Services         Instructional Support Tech    03/03/2017 
+                                                                                  Lecture Center 27                  
+Carpenter,David O            CHG-ADDRESS  East Campus                    525-2660 Environmental Health Sciences   Professor                     03/03/2017 
+                                                                                  Health Sciences Campus A217        
+Carroll,Llana                CHG-ADDRESS  WWriting and Critical Inquiry           Writing and Critical Inquiry    Lecturer (10 Month)           03/03/2017 
+                                                                                  Business Administration 317        
+Caruso,Joseph P              CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player          03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Casey,David J                CHG-ADDRESS  Lecture Center 30              442-5210 School of Criminal Justice      Office Assistant 2 (Keyboardi 03/03/2017 
+                                                                                  Draper 220                         
+Casey,Gina L                 CHG-ADDRESS  Arts & Sciences 217            442-5435 Admissions                      Office Assistant 2 (Keyboardi 03/03/2017 
+                                                                                  UAB 120                            
+Cashman,Donna M              CHG-ADDRESS  East Campus GEC 200            402-0330 School of Public Health Continu Nurse Planner                 03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Chamberlain,Katrina L        CHG-ADDRESS  East Campus 100                402-0404 Dean's Office --School of Publi Dir,Internships&CareerService 03/03/2017 
+                                                                                  Health Sciences Campus 100         
+Chang,Seok-Joo A             CHG-ADDRESS  School of Business 339         956-8343 Accounting and Law              Associate Professor   10 Mont 03/03/2017 
+                                                                                  Business Building 339              
+Chang,Zhihua                 CHG-ADDRESS  Chemistry 149                  442-4400 Chemistry                       Research Assistant 08         03/03/2017 
+                                                                                  Life Science Building 1123         
+Chen,Alan A                  CHG-ADDRESS  LSRB 2033E                     437-4420 Chemistry                       Assistant Professor (10 Mo)   03/03/2017 
+                                                                                  Life Science Building 2033E        
+Cheney,Debora L              CHG-ADDRESS  ITB102E                        442-6423 Office of the CIO               Strategic Advisor             03/03/2017 
+                                                                                  ITB 102E                           
+Chengalur-Smith,Indushobha   CHG-ADDRESS  BB 303C                        956-8315 Information Technology Manageme Associate Professor           03/03/2017 
+                                                                                  Business Building 303C             
+Chinnam,Venkata Sairam       CHG-ADDRESS  University Hall - 308B         956-8034 Provost & VP- Academic Affairs  Staff Assistant               03/03/2017 
+                                                                                  University Hall 308B               
+Chittur,Sridar V             CHG-ADDRESS  East Campus CRC342G            591-7215 Center for Functional Genomics  Senior Research Associate     03/03/2017 
+                                                                                  Health Sciences Campus CRC 342G    
+Choi,Hyunok                  CHG-ADDRESS  East Campus 153                402-0401 Environmental Health Sciences   Assistant Professor (10 Mo)   03/03/2017 
+                                                                                  Health Sciences Campus 153         
+Chow,Sylvia H W              CHG-ADDRESS  CESTM-L116                     437-8700 Atmospheric Sciences Rsch Cente Research Facilitator          03/03/2017 
+                                                                                  CESTM                              
+Ciaralli,Peter C             CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player          03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Cohen,Aaron Martin           NEW                                         442-3569 University Libraries            Office Assistant 1            03/07/2017 
+                                                                                  LI-118                             
+Conklin,Douglas S            CHG-ADDRESS  308 Cancer Research Center     591-7154 Biomedical Science              Associate Professor (10 Mo)   03/03/2017 
+                                                                                  Health Sciences  Campus CRC 308    
+Connell,Michel               CHG-ADDRESS  East Campus GEC 100            402-0281 Dean's Office --School of Publi Secretary 2                   03/03/2017 
+                                                                                  Health Sciences Campus GEC 100     
+Cowie,Adam M                 CHG-ADDRESS  BA 364                         442-2651 CAS Computing Services          Lead Programmer-Analyst       03/03/2017 
+                                                                                  Business Administration 364        
+Crandall,Casey William       CHG-ADDRESS  UAB 226                        437-4969 Development                     Dir of Develop for Athletics  03/03/2017 
+                                                                                  University Administration 226      
+Cravetz,Michelle W           CHG-ADDRESS  East Campus Room 212A          402-2655 School of Public Health Continu Primary Nurse Planner         03/03/2017 
+                                                                                  Health Sciences Campus 202         
+Creager,Mary J               CHG-ADDRESS  East Campus A305               525-2628 Student Loan Service Center     Student Loan Control Represen 03/03/2017 
+                                                                                  Health Sciences Campus A305        
+Cumings,Susan G              CHG-ADDRESS  BA 318 (old Business Admin Bld          Writing and Critical Inquiry    Lecturer (10 Month)           03/03/2017 
+                                                                                  Business Administration 345        
+Cunningham,Richard P         CHG-ADDRESS  Life Sciences 1003R            591-8847 Biology                         Prof & Chair, Biological Sci  03/03/2017 
+                                                                                  Life Science Building 01003R       
+Dai,Aiguo                    CHG-ADDRESS  5 Proctor CT                   442-4474 Atmospheric & Environmental Sci Professor                     03/03/2017 
+                                                                                  Earth Science 351                  
+Dai,Na                       CHG-ADDRESS  School of Business 367         956-8358 Finance                         Assoc Professor 10 Months     03/03/2017 
+                                                                                  Business Building 367              
+Darling,Shelley S            CHG-NAME     Gallagher,Shelley S            442-3200 Billing & Account Maintenance   Secretary 1                   03/03/2017 
+                                                                                  Campus Center G26                  
+Davenport,Allison K          CHG-ADDRESS  East Campus 200                402-0330 School of Public Health Continu Project Coordinator - MDS/BER 03/03/2017 
+                                                                                  Health Sciences Campus 200         
+De Jesus,Magdia              CHG-ADDRESS  East Campus GEC 100            402-2510 Biomedical Science              Assistant Professor 10 Months 03/03/2017 
+                                                                                  Health Sciences Campus GEC 100     
+DeFranco Jr,Carl A           CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player          03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+DeLuise,Carolyn C            CHG-ADDRESS  187 Wolf Road, Suite 301       442-3537 Center for Technology in Govern Secretary 1                   03/03/2017 
+                                                                                  187 Wolf Road Suite 301            
+DeMio,Patricia A             CHG-ADDRESS  East Campus A305               525-2606 Student Loan Service Center     Student Loan Control Represen 03/03/2017 
+                                                                                  Health Sciences Campus A305        
+DelSignore,John M            GONE                                        442-3465 Downtown Campus Maintenance     Maintenance Assistant         02/03/2017 
+                                                                                  NONE - Retired                     
+Dewar,Diane M                CHG-ADDRESS  East Campus                    402-0370 Health Policy                   Assoc Professor               03/03/2017 
+                                                                                  Health Sciences Campus 187         
+DiRienzo,A. Gregory          CHG-ADDRESS  East Campus 130 GEC            402-0372 Epidemiology & Biostatistics    Associate Professor & Chair   03/03/2017 
+                                                                                  Health Sciences Campus 130 GEC     
+Donovan,Allison A            CHG-ADDRESS  East Campus A305               525-2638 Student Loan Service Center     Office Assistant 2 (Calculati 03/03/2017 
+                                                                                  Health Sciences Campus A305        
+Duchessi,Peter J             CHG-ADDRESS  Business School BB 307         956-8318 Information Technology Manageme Professor 10 Months           03/03/2017 
+                                                                                  Business Building 307              
+Eaton,Tina M                 CHG-ADDRESS  East Campus A305               525-2629 Student Loan Service Center     Keyboard Specialist I         03/03/2017 
+                                                                                  Health Sciences Campus A305        
+Edelson,Diana K              CHG-ADDRESS  Draper Hall Room 112A          956-8243 College of Engineering and Appl Assistant Dean                03/03/2017 
+                                                                                  Draper Hall 112A                   
+Effinger,Lauren Marie        CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Calculations Clerk 2          03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Ellis,Lue V                  CHG-ADDRESS  Humanities -B016               442-3155 Dean's Office --School of Publi Senior Staff Assistant        03/03/2017 
+                                                                                  Humanities B016                    
+Enders,Shannon               CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player          03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Esposito,Andrew R            CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Subj. Matter Expert Instructo 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Eubanks,Virginia E           CHG-ADDRESS  Women's, Gender, and Sexuality 442-5281 Women's, Gender, and Sexuality  Assoc Professor 10 Months     03/03/2017 
+                                                                                  Social Science 357                 
+Fagel,Michael J              CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Subj. Matter Expert Instructo 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Falisi,Angela Leanna         CHG-ADDRESS  East Campus  GEC 180           402-0333 Health Policy                   Lecturer (10 Month)           03/03/2017 
+                                                                                  Health Sciences Campus  GEC 180    
+Faluotico Jr,Frank P         CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Subj. Matter Expert Instructo 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Farrell,Cathy M              CHG-ADDRESS  East Campus 304                591-7209 Development                     Staff Associate               03/03/2017 
+                                                                                  Health Sciences Campus 304         
+Farrell,Paul J               CHG-ADDRESS  CAS Computing, BA-364B         442-5512 CAS Computing Services          Senior Programmer/Analyst     03/03/2017 
+                                                                                  Business Administration 364        
+Feingold,Beth                CHG-ADDRESS  East Campus GEC 145            402-0391 Environmental Health Sciences   Assistant Professor 10 Months 03/03/2017 
+                                                                                  Health Sciences Campus GEC 145     
+Felder,Ruth S                CHG-ADDRESS  Social Science 250             442-4890 Latin American and Caribbean St Assistant Professor 10 Months 03/03/2017 
+                                                                                  Social Sciences 250                
+Fernandez Martinez,Daniel    CHG-ADDRESS  East Campus GEC 131            402-0372 Epidemiology & Biostatistics    Assistant Professor           03/03/2017 
+                                                                                  Health Sciences Campus GEC 131     
+Fernando,Guy D               CHG-ADDRESS  Rm 389, Dept of Accounting and 956-8367 Accounting and Law              Assoc Professor 10 Months     03/03/2017 
+                                                                                  Business Building 389              
+Ferraro,Amy B                GONE                                        437-3886 Accounting                      Clerk 1                       03/03/2017 
+                                                                                  Management Services Center 203     
+Fettinger,Eric T             CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Instructor                    03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Fitzgerald,Edward            CHG-ADDRESS  East Campus 105                402-1062 Environmental Health Sciences   O'Leary Professor             03/03/2017 
+                                                                                  Health Sciences Campus 105         
+Ford,Lauren D                CHG-ADDRESS  4 Tower Place, 3rd Floor-3B-5  442-6599 School of Social Welfare        Field Liaison                 03/03/2017 
+                                                                                  Richardson 115                     
+Forni,Paolo Emanuele         CHG-ADDRESS  1400 Washington Avenue         442-4374 Biology                         Assistant Professor (10 Mo)   03/03/2017 
+                                                                                  Biology 325                        
+Forsyth,John P               CHG-ADDRESS  University at Albany, SUNY     442-4862 Psychology                      Professor 10 Months           03/03/2017 
+                                                                                  Social Sciences 399                
+Fox,Ashley M                 CHG-ADDRESS  Milne 101A                     442-5205 Public Administration & Policy  Assistant Professor 10 Months 03/03/2017 
+                                                                                  Milne Hall                         
+Fox,Michele                  CHG-ADDRESS  Sch of Criminal Justice- Drape 442-5214 School of Criminal Justice      Secretary II                  03/03/2017 
+                                                                                  Draper 219                         
+Frazzano,Tracy L             CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Subj. Matter Expert Instructo 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Frye,Cheryl A                CHG-ADDRESS  Social Science 399             591-8839 Psychology                      Professor 10 Months           03/03/2017 
+                                                                                  Social Sciences 399                
+Gallagher,Christian R        CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Subj. Matter Expert Instructo 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Gallant,Mary P               CHG-ADDRESS  East Campus GEC 107            402-0262 Health Policy                   Asc Prof/Assoc Dean Aca Affai 03/03/2017 
+                                                                                  Health Sciences Campus 159         
+Gauvain-McNulty,Linda        CHG-ADDRESS  One University Place           402-0298 Health Policy                   Administrative Manager        03/03/2017 
+                                                                                  Health Sciences Campus 175         
+Gemme,Kimberly A             CHG-ADDRESS  SL 40.2                        442-3565 University Libraries            Senior Mail & Supply Clerk    03/03/2017 
+                                                                                  SL 40-2                            
+Gensburg,Lenore J            CHG-ADDRESS  East Campus 350                402-0400 Epidemiology & Biostatistics    Lecturer (10 Month)           03/03/2017 
+                                                                                  Health Sciences Campus 350         
+Gestwick,Janine E            NEW                                         437-4706 Human Resources Management      Payroll Assistant Trainee     03/08/2017 
+                                                                                  University Administration 300      
+Gibbons,Jennifer L           CHG-ADDRESS  East Campus                    525-2622 Student Loan Service Center     Calculations Clerk 2          03/03/2017 
+                                                                                  Health Sciences Campus             
+Gibson,Brent R               CHG-ADDRESS  MSC-209                        442-3700 Client Support Services         Desktop Support Specialist    03/03/2017 
+                                                                                  Computing Services 9               
+Gilliam,Keith W              CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Instructor                    03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Goddard,Sheldon J            CHG-ADDRESS  East Campus 100                474-9054 Dean's Office --School of Publi Director of SPH Computing Svc 03/03/2017 
+                                                                                  Health Sciences Campus 100         
+Goldstein,Kevin A            CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Delivery Coordinator 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Goldstein,Seth R             CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Subj. Matter Expert Instructo 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Goodall,Jennifer J           CHG-ADDRESS  Informatics Department         442-3191 Informatics                     Assistant Dean                03/03/2017 
+                                                                                  LI 84                              
+Goodwin,Daniel S             CHG-ADDRESS  Boor Sculpture Studio 103      442-4020 Art & Art History               Assoc Professor 10 Months     03/03/2017 
+                                                                                  Fine Arts 216                      
+Greabell,Lynne E             CHG-ADDRESS  East Campus GEC 202            402-0330 School of Public Health Continu Program Coordinator           03/03/2017 
+                                                                                  Health Sciences Campus GEC 202     
+Griffin,Robert P             NEW                                         442-5142 Col EmerPrep HomeSec CybSerc    Dean                          03/03/2017 
+                                                                                  Draper 303A                        
+Griffith,Glyne A             CHG-ADDRESS  SUNY, Albany, 1400 Washington  442-4890 English                         Associate Professor & Chair   03/03/2017 
+                                                                                  Humanities 333                     
+Guistina,David A             CHG-ADDRESS  Social Science 356             442-2647 Communication                   Lecturer (10 Month)           03/03/2017 
+                                                                                  Social Sciences 356                
+Gutmann,Juliette E           CHG-ADDRESS  BA 326                                  Writing and Critical Inquiry    Lecturer (10 Month)           03/03/2017 
+                                                                                  Business Administration 326        
+Hahn,Mark A                  CHG-ADDRESS  Service Building A (SBA)       442-3434 Architecture, Engineering & Con Senior Staff Assistant        03/03/2017 
+                                                                                  SBA                                
+Hale,David                   CHG-ADDRESS  Revenue Neutral Shop/S.S. B-26 442-3413 Moving & Trucking               Laborer                       03/03/2017 
+                                                                                  Social Sciences B26                
+Hallenbeck,Marc E            CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player-Advanced 03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Halvorsen,Kenneth A          CHG-ADDRESS  RNA Institute LSRB 2020A       591-8816 Institute for RNA Science and T Senior Research Scientist     03/03/2017 
+                                                                                  Life Science Building 2020A        
+Hampton,Moriah N             CHG-ADDRESS  Business Administration  318A           Writing and Critical Inquiry    Lecturer (10 Month)           03/03/2017 
+                                                                                  Business Administration 318A       
+Hans,Matthew C               CHG-ADDRESS  East Campus                    525-2621 Student Loan Service Center     IT Specialist                 03/03/2017 
+                                                                                  Health Sciences Campus             
+Hargett,James M              CHG-ADDRESS  Department of East Asian Studi 442-4233 East Asian Studies              Prof/SrPolcyAdvisrPresChinaRe 03/03/2017 
+                                                                                  Humanities 210                     
+Hastings,Julia F             CHG-ADDRESS  East Campus GEC 183            402-0293 Health Policy                   Assistant Professor (10 Mo)   03/03/2017 
+                                                                                  Health Sciences Campus GEC 183     
+Heiserman,Jeanne C           CHG-ADDRESS  Management Services Center 203 437-3826 Accounting                      Office Assistant 2 (Calculati 03/03/2017 
+                                                                                  Management Services Center 326     
+Herasimtschuk,Christian Mich CHG-ADDRESS  East Campus GEC 200            402-0330                                 Ed Specialist/Project Coord   03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Herasimtschuk,Christian Mich CHG-ADDRESS  East Campus GEC 200            402-0330 School of Public Health Continu Ed Specialist/Project Coord   03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Herschkowitz,Jason Ian       CHG-ADDRESS  East Campus CRC 342            402-2510 Biomedical Science              Assistant Professor (10 Mo)   03/03/2017 
+                                                                                  Health Sciences Campus CRC 342     
+Hicks,Kevin E                CHG-ADDRESS  SUNY at Albany                 442-2932 Empire Commons                  Maintenance Supervisor 1      03/03/2017 
+                                                                                  Empire Commons                     
+Hill,Michael T               CHG-ADDRESS  Social Science 358             442-4056 Communication                   Lecturer (10 Month)           03/03/2017 
+                                                                                  Social Sciences 358                
+Hosler,Akiko S               CHG-ADDRESS  East Campus 147                402-1561 Epidemiology & Biostatistics    Associate Professor 10 Months 03/03/2017 
+                                                                                  Health Sciences Campus 147         
+Howard,Donovan L             CHG-ADDRESS  Richardson 290                 442-5294 Col EmerPrep Home Sec CybSerc - Assistant Dean                03/03/2017 
+                                                                                  Draper 340                         
+Howe,Gene                    CHG-ADDRESS  Power Plant                    442-3444 Power Plant                     Plant Utilities Engineer 3    03/03/2017 
+                                                                                  SBA Power Plant                    
+Janssens,Jeffrey H           CHG-ADDRESS  BA 333                                  Writing and Critical Inquiry    Lecturer (10 Month)           03/03/2017 
+                                                                                  Business Administration 338        
+Jester,Dianne E              CHG-ADDRESS  Computing Services 09          437-4442 Achievement, Retention and Stud Program Coordinator           03/03/2017 
+                                                                                  Computing Services 9               
+Jones,Kenneth P              CHG-ADDRESS  East Campus CRC 319            591-7217 Biomedical Science              Research Assistant            03/03/2017 
+                                                                                  Health Sciences Campus CRC 317     
+Jones,Todd Michael           CHG-ADDRESS  State Quad - Eastman Tower     442-5875 Residential Life                Assnt Dir of College Housing  03/03/2017 
+                                                                                  Eastman Tower                      
+Joseph,Vernon C              CHG-ADDRESS  SBA   Downtown                 437-3984 Custodial Services              Cleaner                       03/03/2017 
+                                                                                  SBA Downtown                       
+Jurkat,Martin Alexander      CHG-ADDRESS  7A Harriman Campus Road Suite  956-8248 Informatics                     Lecturer (10 Month)           03/03/2017 
+                                                                                  Draper 113                         
+Jurkowski,Janine M           CHG-ADDRESS  East Campus 160                402-0420 Health Policy                   AssocProf/AssocDean PubHlthPr 03/03/2017 
+                                                                                  Health Sciences Campus 160         
+Justino,John G               CHG-ADDRESS  East Campus 100                402-0385 Dean's Office --School of Publi Director,Ctr for Global Healt 03/03/2017 
+                                                                                  Health Sciences Campus 100         
+Kamali,Nazanin               CHG-ADDRESS  UAB 212                        437-5045 Office of Campaign/ Development Office Assistant 1            03/03/2017 
+                                                                                  University Administration 212      
+Kane,Sean P                  CHG-ADDRESS  East Campus  GEC126            486-4263 Dean's Office --School of Publi Programmer Analyst            03/03/2017 
+                                                                                  Health Sciences Campus GEC 126     
+Kaufman,Joanne M             CHG-ADDRESS  Department of Sociology        442-5963 Sociology                       Associate Professor   10 Mont 03/03/2017 
+                                                                                  Arts & Sciences 351                
+Kennedy,Sandra L             CHG-ADDRESS  East Campus A305               525-2628 Student Loan Service Center     Clerk I                       03/03/2017 
+                                                                                  Health Sciences Campus A305        
+Khatib,Sari H                CHG-ADDRESS  1400 Washinton Ave             442-5875 Orientation & Transition Prgms  Assnt Director New Stud Prgms 03/03/2017 
+                                                                                  State Quad U-Lounge                
+Khmelnitsky,Irina            CHG-ADDRESS  East Campus 113                402-4751 Dean's Office --School of Publi Staff Associate               03/03/2017 
+                                                                                  Health Sciences Campus 113         
+Kilts,Karl G                 CHG-ADDRESS  Service Building A - Room 207  437-3667 Facilities Management           Staff Associate               03/03/2017 
+                                                                                  SBA 207                            
+Kirkwood,Brenda A            CHG-ADDRESS  East Campus 100                402-0353 Dean's Office --School of Publi Staff Associate               03/03/2017 
+                                                                                  Health Sciences Campus 100         
+Kizenko,Nadieszda            CHG-ADDRESS  Social Science 145C            442-5305 History                         Associate Professor 10 Months 03/03/2017 
+                                                                                  Social Sciences 145C               
+Kokabee,Leila                CHG-ADDRESS  Health Sciences Campus, CRC 50 591-7164 Biomedical Science              Postdoctoral Associate        03/03/2017 
+                                                                                  Health Sciences Campus CRC 305     
+Korobeynikov,Dmitry          CHG-ADDRESS  Social Science 145             442-5300 History                         Assistant Professor  10 Month 03/03/2017 
+                                                                                  Social Sciences 145                
+Koslowski,Reynold J          CHG-ADDRESS  Milne 121c                     442-5314 Political Science               Associate Professor           03/03/2017 
+                                                                                  Milne 121C                         
+Kubes,Lawrence D             CHG-ADDRESS  East Campus SLSC               525-2632 Student Loan Service Center     Clerk 2                       03/03/2017 
+                                                                                  Health Sciences Campus SLSC        
+Kuniholm,Mark H              CHG-ADDRESS  East Campus GEC 131            402-0372 Epidemiology & Biostatistics    Associate Professor           03/03/2017 
+                                                                                  Health Sciences Campus GEC 131     
+Kuznetsov,Igor B             CHG-ADDRESS  East Campus,Cancer Research Ce 402-0415 Epidemiology & Biostatistics    Assoc Professor 10 Months     03/03/2017 
+                                                                                  Health Sciences Campus CRC 206     
+LaGasse,Bernard              CHG-ADDRESS  Financial Aid Office           442-3202 Financial Aid                   Programmer/Analyst            03/03/2017 
+                                                                                  Campus Center G-25                 
+Lanford,William A            CHG-ADDRESS  Department of Physics          442-2561 Physics                         Professor/Undergrad Dir Physi 03/03/2017 
+                                                                                  Physics 214                        
+Lasak,Michele B              CHG-ADDRESS  SS 110                         442-5140 Office Of General Studies & Sum Staff Associate               03/03/2017 
+                                                                                  Social Sciences 110                
+Lasch,Annalee C R            CHG-ADDRESS  East Campus GEC 200            402-0330 School of Public Health Continu Program Coordinator           03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Lasdun,James                 CHG-ADDRESS  LE 320                         442-5620 NYS Writers Institute           Instructional Support Assoc.  03/03/2017 
+                                                                                  SL 320                             
+Lednev,Igor K                CHG-ADDRESS  LS 1107                        591-8863 Chemistry                       Professor 10 Months           03/03/2017 
+                                                                                  Life Science Building 1107         
+Lenart,Cristian-Paul         CHG-ADDRESS  Dept of Math & Statistics, ES  442-4635 Mathematics and Statistics      Professor 10 Months           03/03/2017 
+                                                                                  Earth Science 116A                 
+Lester,Marisa Beth           CHG-ADDRESS  Business Building - BB 314     956-8342 Accounting and Law              Lecturer (10 Month)           03/03/2017 
+                                                                                  Business Building 314              
+Leung,Ricky Chi Yeung        CHG-ADDRESS  East Campus GEC 181            402-6512 Health Policy                   Assistant Professor (10 Mo)   03/03/2017 
+                                                                                  Health Sciences Campus GEC 181     
+Lin,Shao                     CHG-ADDRESS  East Campus GEC 189            473-7553 Environmental Health Sciences   Professor 10 Months           03/03/2017 
+                                                                                  Health Sciences Campus GEC 189     
+Livolsi,Maria                CHG-ADDRESS  East Campus A310               525-2628 Student Loan Service Center     Dir, Student Loan Service Ctr 03/03/2017 
+                                                                                  Health Sciences Campus A310        
+Lnenicka,Gregory             CHG-ADDRESS  LSB 1038                       591-8812 Biology                         Prof &Dir Ctr NeuroscnceResrc 03/03/2017 
+                                                                                  Life Science Building 1038         
+LoGiudice,Paul               CHG-ADDRESS  UAB 120                        442-5435 Admissions                      Staff Associate               03/03/2017 
+                                                                                  University Administration 120      
+Lohse,Kent R                 CHG-ADDRESS  Social Science 145             442-5300 History                         Visiting Assistant Professor  03/03/2017 
+                                                                                  Social Sciences 145                
+Lonergan,Sharon A            CHG-ADDRESS  East Campus  CRC Basement      591-7160 Laboratory Animal Resources     Sr Laboratory Animal Caretake 03/03/2017 
+                                                                                  Health Sciences Campus CRC Basement
+Lotmore,Alyssa Catharine     CHG-ADDRESS  SUNY School of Social Welfare  442-5361 School of Social Welfare        Assnt Dir Undergrad Prgm      03/03/2017 
+                                                                                  Richardson 185                     
+MacDonald,Carolyn            CHG-ADDRESS  Office: LifeSci 1145           772-4585 Physics                         Professor                     03/03/2017 
+                                                                                  Physics 216                        
+Mainwaring,Joan B            CHG-ADDRESS  ES 113                         442-4603 Mathematics and Statistics      Admin Mngr, Dept of Math &Sta 03/03/2017 
+                                                                                  Earth Science 113                  
+Malachowski,Nicole L         CHG-ADDRESS  East Campus 130                402-0372 Epidemiology & Biostatistics    Administrative Manager        03/03/2017 
+                                                                                  Health Sciences Campus 130         
+Maneesh Kumar,Fnu            CHG-ADDRESS  East Campus  CRC 317           591-7224 Biomedical Science              Postdoctoral Associate        03/03/2017 
+                                                                                  Health Sciences Campus CRC 317     
+Manganello,Jennifer          CHG-ADDRESS  East Campus 165                402-0304 Health Policy                   Assoc Prof/Assoc Dean Rsrch   03/03/2017 
+                                                                                  Health Sciences Campus 165         
+Martel,Charlene M            CHG-ADDRESS  East Campus Room 218           408-4055 Vice President for Research     Grant Support Specialist      03/03/2017 
+                                                                                  Health Sciences Campus 218         
+Martin,Logan J               CHG-ADDRESS  Earth Sciences 110             442-4600 Mathematics and Statistics      Lecturer (10 Month)           03/03/2017 
+                                                                                  Earth Science 110                  
+Martin,Ramona L              CHG-ADDRESS  East Campus  GEC 200           402-0330 School of Public Health Continu Budget Manager                03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Matias,Leah R                CHG-ADDRESS  East Campus GEC 200            402-0330 School of Public Health Continu PRI Instructor                03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+McCormick,Susan L            CHG-ADDRESS  History Dept. -Social Science  442-5431 History                         Lecturer (10 Month)           03/03/2017 
+                                                                                  Social Sciences 145                
+McKenna,Holly J.             CHG-ADDRESS  Social Science 362A            442-4394 Communication                   Lecturer (10 Month)           03/03/2017 
+                                                                                  Social Sciences 362A               
+McMahon Jr,Edmund A          CHG-ADDRESS  Building 19 (SBA)              442-3822 Architecture, Engineering & Con Maintenance Assistant         03/03/2017 
+                                                                                  SBA                                
+McNutt,Louise-Anne           CHG-ADDRESS  5 University Place, A217       525-2660 Institute for Health & the Envi Assoc Director/Assoc Prof     03/03/2017 
+                                                                                  Health Sciences Campus A217        
+McShane,Kelly Katherine      CHG-ADDRESS  East Campus GEC 200            402-0337 Dean's Office --School of Publi Lecturer (10 Month)           03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Miller,Scott D               CHG-ADDRESS  CESTM                          437-8799 Atmospheric Sciences Rsch Cente Research Associate            03/03/2017 
+                                                                                  CESTM L317                         
+Moslehi,Roxana               CHG-ADDRESS  East Campus                    591-7225 Epidemiology & Biostatistics    Associate Professor           03/03/2017 
+                                                                                  Health Sciences Campus 304         
+Murakami,Ineke               CHG-ADDRESS  Department of English          442-4080 English                         Assoc Professor 10 Months     03/03/2017 
+                                                                                  Humanities 344                     
+Muscanell,Jason R            CHG-ADDRESS  SBA   Carpenter Shop           442-3482 Carpentry Shop                  Carpenter                     03/03/2017 
+                                                                                  SBA Carpenter Shop                 
+Navarette,Kristen A          CHG-ADDRESS  East Campus 113                402-4751 Dean's Office --School of Publi Postdoctoral Associate        03/03/2017 
+                                                                                  Health Sciences Campus 113         
+Nevo,Saggi                   CHG-ADDRESS  BB #393                        956-8369 Information Technology Manageme Assoc Professor 10 Months     03/03/2017 
+                                                                                  Business Building 393              
+Ng,Vivien W                  CHG-ADDRESS  Social Science 373             442-4221 Women's, Gender, and Sexuality  Asc Prf & Chair/Dir IROW      03/03/2017 
+                                                                                  Social Sciences 373                
+Nous,Rebecca A               CHG-ADDRESS  LI - B35A                      442-3620 University Libraries            Sr Assnt Lib/Catalog Mngt Lib 03/03/2017 
+                                                                                  LI  B35A                           
+Odato,James Michael          CHG-ADDRESS  Social Science 358             442-5134 Communication                   Lecturer (10 Month)           03/03/2017 
+                                                                                  Social Sciences 358                
+Oriola,Deborah A             CHG-ADDRESS  East Campus 100                402-0340 Dean's Office --School of Publi Assist Dean for Administratio 03/03/2017 
+                                                                                  Health Sciences Campus 100         
+Osuna,Robert                 CHG-ADDRESS  Life Science Research Building 591-8827 Biology                         Associate Professor           03/03/2017 
+                                                                                  Life Science Building 2062         
+Oswald,Meagan Lee            NEW                                         525-2628 Student Loan Service Center     Office Assistant 1            03/03/2017 
+                                                                                  Health Sciences Campus             
+Oswald,Meagan Lee            NEW                                         525-2628 Student Loan Service Center     Office Assistant 1            03/07/2017 
+                                                                                  Health Sciences Campus             
+Palmer,Thomas A              CHG-ADDRESS  Social Science 355             442-2647 Communication                   Lecturer (10 Month)           03/03/2017 
+                                                                                  Social Sciences 355                
+Patterson,Dianne Lynn        CHG-ADDRESS  East Campus GEC 200            402-0330 School of Public Health Continu Public Relations Coordinator  03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Patton,Richard T             CHG-ADDRESS  NONE - Retired                 437-4484 Facilities Management           Maintenance Assistant         03/03/2017 
+                                                                                  SBA                                
+Pelton,Judith L              CHG-ADDRESS  East Campus 129                402-0372 Epidemiology & Biostatistics    Keyboard Specialist 2         03/03/2017 
+                                                                                  Health Sciences Campus 129         
+Perlman,Shirley E            CHG-ADDRESS  Social Science 358             442-2647 Communication                   Lecturer (10 Month)           03/03/2017 
+                                                                                  Social Sciences 358                
+Pettis,Jennifer L            CHG-ADDRESS  East Campus GEC 200            402-0330 School of Public Health Continu Gold Stamp Instructor         03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Poirier,Steven Raymond       CHG-ADDRESS  East Campus                    525-2628 Student Loan Service Center     Office Assistant 1            03/03/2017 
+                                                                                  Health Sciences Campus             
+Polk,Denise C                CHG-ADDRESS  East Campus A310               525-2628 Student Loan Service Center     Secretary I                   03/03/2017 
+                                                                                  Health Sciences Campus A310        
+Pulaha,Robert                CHG-ADDRESS  grounds                        442-3450 Grounds                         Cleaner                       03/03/2017 
+                                                                                  SBA Grounds                        
+Qian,Feng                    CHG-ADDRESS  East Campus GEC 169            402-0325 Health Policy                   Assistant Professor (10 Mo)   03/03/2017 
+                                                                                  Health Sciences Campus GEC 169     
+Randall,Jason G              CHG-ADDRESS  Social Science 387             442-3411 Psychology                      Assistant Professor 10 Months 03/03/2017 
+                                                                                  Social Sciences 387                
+Rathka,Aimee L               CHG-ADDRESS  East Campus GEC 200            402-0330 School of Public Health Continu PRI Instructor                03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Reid,Caitlin M               CHG-ADDRESS  East Campus Room 100           402-0727 Dean's Office --School of Publi Assnt Dean for Student Affair 03/03/2017 
+                                                                                  Health Sciences Campus 100         
+Rich,Eliot                   CHG-ADDRESS  BB 369                         956-8359 Information Technology Manageme Associate Professor   10 Mont 03/03/2017 
+                                                                                  Business Building 369              
+Ricks Jr.,Markus             CHG-ADDRESS  1400 Washington Ave., Colonial 442-5911 Residential Life                Assist Dir of College Housing 03/03/2017 
+                                                                                  Colonial Quad                      
+Riley-Jacome,Mary F          CHG-ADDRESS  East Campus 212A               402-2066 Health Policy                   Project Coordinator           03/03/2017 
+                                                                                  Health Sciences Campus GEC 214     
+Robbins,Mark P               CHG-ADDRESS  NONE - Retired                 402-0330 School of Public Health Continu PRI Instructor                03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Roe,Theresa J                CHG-ADDRESS  Management Services Center 203 437-3891 Accounting                      Office Assistant 2 (Calculati 03/03/2017 
+                                                                                  Management Services Center 326     
+Rojas,Jessica                CHG-ADDRESS  Richardson 290                 442-5258 Col EmerPrep Home Sec CybSerc - Office Coordinator            03/03/2017 
+                                                                                  Draper 340                         
+Rorissa,Abebe                CHG-ADDRESS  135 Western Ave.               442-5123 Information Studies             Assoc Professor 10 Months     03/03/2017 
+                                                                                  Draper 140B                        
+Ruland,Lindsay Nicole        CHG-ADDRESS  East Campus                    402-0330 School of Public Health Continu Assistant Director            03/03/2017 
+                                                                                  Health Sciences Campus             
+Sahney,Puja                  CHG-ADDRESS  Business Administration, Room#          Writing and Critical Inquiry    Lecturer (10 Month)           03/03/2017 
+                                                                                  Business Administration 341        
+Sano,Steven M                CHG-ADDRESS  SBA   Carpenter Shop           442-3482 Carpentry Shop                  Carpenter                     03/03/2017 
+                                                                                  SBA Carpenter Shop                 
+Scalise Roller,Terri         CHG-ADDRESS  University at Albany           437-5095 Annual Giving                   Dir of Corporate Engagement   03/03/2017 
+                                                                                  University Administration 202      
+Schaller,Tomoko Udo          CHG-ADDRESS  East Campus 187                486-5572 Health Policy                   Assistant Professor           03/03/2017 
+                                                                                  Health Sciences Campus 187         
+Scheck,Helene E              CHG-ADDRESS  Department of English          442-4070 English                         Associate Professor           03/03/2017 
+                                                                                  Humanities 322                     
+Schmitz,Robert               CHG-ADDRESS  Physics Building, Room PH114   591-8868 Physics                         Lecturer (10 Month)           03/03/2017 
+                                                                                  Physics 114                        
+Schuhle,Betsey Morgan        CHG-ADDRESS  East Campus A409               442-5023 Dean's Office--School of Educat Director of NY Kids           03/03/2017 
+                                                                                  Health Sciences Campus A409        
+Schwab,Michelle C            CHG-ADDRESS  East Campus                    525-2628 Student Loan Service Center     Office Assistant 1            03/03/2017 
+                                                                                  Health Sciences Campus             
+Schweitzer,Laura             CHG-ADDRESS  East Campus GEC 100            402-0281 Dean's Office --School of Publi Interim Dean/VP Health Sci    03/03/2017 
+                                                                                  Health Sciences Campus GEC 100     
+Sen,Poulomi                  CHG-ADDRESS  CC 130                                  Space Management & Campus Prese Staff Assistant               03/03/2017 
+                                                                                  Campus Center 130                  
+Shaw,Benjamin A              CHG-ADDRESS  East Campus 179                402-0290 Health Policy                   Professor 10 Months           03/03/2017 
+                                                                                  Health Sciences Campus 179         
+Shi,Hua                      CHG-ADDRESS  LS2050                         591-8840 Biology                         Associate Professor   10 Mont 03/03/2017 
+                                                                                  Life Science Building S2050        
+Shoddy,Kimberly J            CHG-ADDRESS  East Campus 300                525-2628 Student Loan Service Center     Office Assistant 2            03/03/2017 
+                                                                                  Health Sciences Campus 300         
+Sides,Gregory David          CHG-ADDRESS  East Campus GEC 200            402-0330 School of Public Health Continu Professional Develp Coord     03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Singh,Sudha                  CHG-ADDRESS  East Campus 113                402-4751 Dean's Office --School of Publi Postdoctoral Associate        03/03/2017 
+                                                                                  Health Sciences Campus 113         
+Skill,Lisa J                 CHG-ADDRESS  East Campus GEC 202            408-2334 School of Public Health Continu Project Coordinator           03/03/2017 
+                                                                                  Health Sciences Campus GEC 202     
+Smith,Nancy E                CHG-ADDRESS  East Campus A305               525-2601 Student Loan Service Center     Clerk 2                       03/03/2017 
+                                                                                  Health Sciences Campus A305        
+Starunov,Yaroslav M          CHG-ADDRESS  SBA    Power Plant             442-3444 Power Plant                     Plant Utilities Engineer 2    03/03/2017 
+                                                                                  SBA Power Plant                    
+Stewart,Caro-Beth            CHG-ADDRESS  Department of Biological Scien 591-8832 Biology                         Associate Professor           03/03/2017 
+                                                                                  Biology 326                        
+Szaro,Ben G                  CHG-ADDRESS  Biology/ Life Sciences Res 105 591-8852 Biology                         Professor 10 Month            03/03/2017 
+                                                                                  Life Science Building 1059         
+Tarsa,Mary J                 CHG-ADDRESS  Business Building, BB 303      956-8370 Dean's Office--School of Busine Keyboard Specialist 1         03/03/2017 
+                                                                                  Business Building 303              
+Tayi,Giri Kumar              CHG-ADDRESS  Business Building BB 317       956-8328 Information Technology Manageme Professor                     03/03/2017 
+                                                                                  Business Building 317              
+Tenniswood,Martin P          CHG-ADDRESS  One Discovery Drive            591-7231 Biomedical Science              Professor 10 Months           03/03/2017 
+                                                                                  Health Sciences Campus CRC         
+Therrien,Kathleen F          CHG-ADDRESS  East Campus  A308              525-2628 Student Loan Service Center     Calculations Clerk 2          03/03/2017 
+                                                                                  Health Sciences Campus A308        
+Thomas,Binoy C               CHG-ADDRESS  East Campus CRC                591-7160 Laboratory Animal Resources     Sr Laboratory Animal Caretake 03/03/2017 
+                                                                                  Health Sciences Campus CRC         
+Thompson,AnnMarie            CHG-ADDRESS  East Campus                    525-2631 Student Loan Service Center     Student Loan Control Represen 03/03/2017 
+                                                                                  Health Sciences Campus             
+Tillman,James                GONE                                        437-4596 Equipment Management            Laborer                       02/03/2017 
+                                                                                  Management Services Center 302     
+Torres,Anthony               CHG-ADDRESS  East Campus  GEC100            402-2510 Biomedical Science              Administrative Manager        03/03/2017 
+                                                                                  Health Sciences Campus GEC100      
+Tracy,Melissa                CHG-ADDRESS  East Campus 129 GEC            402-0372 Epidemiology & Biostatistics    Assistant Professor 10 Months 03/03/2017 
+                                                                                  Health Sciences Campus 129 GEC     
+Vadney,Michael Joseph        CHG-ADDRESS  Service Building A             442-3433 Facilities Management           Assnt to Dir of Physical Plnt 03/03/2017 
+                                                                                  SBA                                
+Valderrama,Lance             CHG-ADDRESS  East Campus Building A308      525-2614 Student Loan Service Center     Office Assistant 3 (Calculati 03/03/2017 
+                                                                                  Health Sciences Campus A308        
+Van Cleef,Morgan             CHG-ADDRESS  East Campus GEC 200            402-0330 School of Public Health Continu Project Manager               03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+VanAcker,Katherine E         CHG-ADDRESS  Social Science 356             442-5134 Communication                   Lecturer (10 Month)           03/03/2017 
+                                                                                  Social Sciences 356                
+VanGesen,Glenda E            CHG-ADDRESS  4 Tower Place, Suite 600       956-8180                                 Training Role Player          03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+VanGesen,Glenda E            CHG-ADDRESS  4 Tower Place, Suite 600       956-8180 Natl Cntr-Scrty & Preparedness  Training Role Player          03/03/2017 
+                                                                                  4 Tower Place Suite 600            
+Vasquez,Elizabeth            CHG-ADDRESS  East Campus 129 GEC            408-2362 Epidemiology & Biostatistics    Assistant Prof 10 Month       03/03/2017 
+                                                                                  Health Sciences Campus 129 GEC     
+Vatalaro,Sandra T            CHG-ADDRESS  East Campus 310                525-2608 Student Loan Service Center     Student Loan Control Represen 03/03/2017 
+                                                                                  Health Sciences Campus 310         
+Volynsky,Gina                CHG-ADDRESS  c/o Center for Int'l Developme 443-5124 Vice President for Research     Director                      03/03/2017 
+                                                                                  Albany Law School                  
+Wagner,Christine K           CHG-ADDRESS  Life Science 1036              591-8836 Psychology                      Professor and Chair           03/03/2017 
+                                                                                  Life Science Building 1036         
+Walker,Theresa A             CHG-ADDRESS  East Campus A305               525-2613 Student Loan Service Center     Assnt Univ Financial Anal 08  03/03/2017 
+                                                                                  Health Sciences Campus A305        
+Walser,James N               CHG-ADDRESS  University Admin Building 234  437-4517 Internal Audit                  Dir Of Internal Audit         03/03/2017 
+                                                                                  University Administration 234      
+Walsh,Eric M                 CHG-ADDRESS  Social Science 130             442-5883 Operations & Management         Research & Data Analyst       03/03/2017 
+                                                                                  Social Sciences 130                
+Walsh,Jane C                 CHG-ADDRESS  East Campus A305               525-2609 Student Loan Service Center     Clerk I                       03/03/2017 
+                                                                                  Health Sciences Campus A305        
+Wang,Ing-Nang                CHG-ADDRESS  Life Sciences Research  02061  591-8844 Biology                         Associate Professor   10 Mont 03/03/2017 
+                                                                                  Life Science Building  02061       
+Wang,Xianhui                 CHG-ADDRESS  48 huntersfield Rd             591-7164 Biomedical Science              Research Associate            03/03/2017 
+                                                                                  Health Sciences Campus CRC 230     
+Waterson,Casey Marie         NEW                                         442-5454 Student Health Services         Office Assistant 1 (Keyboardi 03/09/2017 
+                                                                                  400 Patroon Creek Blvd Suite 200   
+Weaver,Barbara A             CHG-ADDRESS  U Albany   LSRB 2090           442-3149 Vice President for Research     Research Assistant 08         03/03/2017 
+                                                                                  Life Science Building 2090         
+Weller,Wendy E               CHG-ADDRESS  East Campus 167                402-0302 Health Policy                   Associate Professor   10 Mont 03/03/2017 
+                                                                                  Health Sciences Campus 167         
+Welsh,JoEllen                CHG-ADDRESS  Cancer Research Center         591-7232 Environmental Health Sciences   Professor 10 Months           03/03/2017 
+                                                                                  Health Sciences Campus 304D        
+Whalen,Christopher           CHG-ADDRESS  East Campus A305               525-2628 Student Loan Service Center     Senior Staff Associate        03/03/2017 
+                                                                                  Health Sciences Campus A305        
+Winston,Linda J              CHG-ADDRESS  East Campus GEC 200            02330    School of Public Health Continu SPH Cont'g Educ Inst          03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Wise,Joanne                  CHG-ADDRESS  East Campus GEC 200            402-0330 School of Public Health Continu CE Coordinator                03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Wolf,Wendy N                 CHG-ADDRESS  East Campus GEC 100            402-0281 Dean's Office --School of Publi Office Assistant 1            03/03/2017 
+                                                                                  Health Sciences Campus GEC 100     
+Xue,Xiaobo                   CHG-ADDRESS  East Campus GEC 155            473-7553 Environmental Health Sciences   Assistant Professor 10 Months 03/03/2017 
+                                                                                  Health Sciences Campus GEC 155     
+Yezzi,McKenzie Therese       CHG-ADDRESS  6 Executive Park Drive         380-5070 Small Business Development Cent Staff Assistant               03/03/2017 
+                                                                                  6 Executive Park Drive Entrance B  
+York,Corinne M               GONE                                        437-4596 Equipment Management            Laborer                       02/03/2017 
+                                                                                  Management Services Center 302     
+Yost,John W.                 CHG-ADDRESS  East Campus GEC 200            402-0333                                 Media Production Specialist   03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Yost,John W.                 CHG-ADDRESS  East Campus GEC 200            402-0333 School of Public Health Continu Media Production Specialist   03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Young,Yuchi                  CHG-ADDRESS  East Campus 171                402-2063 Health Policy                   Assoc Professor 10 Months     03/03/2017 
+                                                                                  Health Sciences Campus 171         
+Yucel,Murat R                CHG-ADDRESS  East Campus 100                402-0421 Epidemiology & Biostatistics    Assoc Professor 10 Months     03/03/2017 
+                                                                                  Health Sciences Campus 100         
+Zhang,Xiaonong               CHG-ADDRESS  LC-SB32                        442-2651 CAS Computing Services          Senior Programmer Analyst     03/03/2017 
+                                                                                  Lecturer Center SB32               
+Zobel,Karen M                CHG-ADDRESS  East Campus  GEC 200           402-0330 School of Public Health Continu PRI/Screen Trainer            03/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Zurbenko,Igor G              CHG-ADDRESS  East Campus 141                402-0393 Epidemiology & Biostatistics    Professor                     03/03/2017 
+                                                                                  Health Sciences Campus 141         
+Zwick,Tamara M               CHG-ADDRESS  Social Science 145             442-5300 History                         Visiting Assistant Professor  03/03/2017 
+                                                                                  Social Sciences 145                
+                         ******** end of report uahrxtel.txt **********                                                                               

@@ -1,0 +1,39 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 17-FEB-2017 thru 23-FEB-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+Banks,Erin Nicole            GONE                                        442-4992 Dean's Office--School of Educ   Office Assistant 1            01/18/2017 
+                                                                                  Education 239                      
+Brown,Destine                NEW                                                  School of Social Welfare        Research Aide                 02/21/2017 
+                                                                                  Richardson 012                     
+Cozzy,Pamella M              CHG-NAME     Ferrara,Pamella M              437-4579 Sponsored Programs Administrati Calculations Clerk 2          01/18/2017 
+                                                                                  Management Services Center 216     
+Fisher,Seth Allen            GONE                                        442-3130 University Police Department    University Police Officer 1   01/18/2017 
+                                                                                  University Police Building         
+Glean,Sharnell M             GONE                                        591-8182 Ctr for Intrn Ed & Globl Strgy  Office Assistant 1            01/18/2017 
+                                                                                  SL G20                             
+Grondahl,Paul S              CHG-ADDRESS  Social Sciences 145            442-5620 NYS Writers Institute           Director, NYS Writers Inst    01/18/2017 
+                                                                                  SL 320                             
+Grondahl,Paul S              NEW                                         442-5620 NYS Writers Institute           Director, NYS Writers Inst    02/21/2017 
+                                                                                  SL 320                             
+Latham,Anthony J             GONE                                                 University Libraries            Stores Clerk 2                02/21/2017 
+                                                                                  LI SB23                            
+Matthews,Stephen Eric        NEW                                         442-3569 University Libraries            Evening Circ Asst             02/21/2017 
+                                                                                  LI-118                             
+McNeill,Eugenia I            GONE                                        442-5904 Residential Life                Office Assistant 1            01/20/2017 
+                                                                                  Dutch Quad                         
+Pacey,Rachel Nicole          CHG-ADDRESS  Colonial Quad 1718             219-0210 Advisement Services Center/ Und Advising PLUS Tutor           01/18/2017 
+                                                                                  Freedom A6 101 box 3075            
+Piazza,Joseph M              NEW                                         956-8180 Natl Cntr-Scrty & Preparedness  Role Player                   02/20/2017 
+                                                                                  4 Tower Place Suite 600            
+Sagendorf,Matthew Thomas     GONE                                        442-4100 Languages, Lits. & Cultures     Office Assistant 1            02/17/2017 
+                                                                                  Humanities 235                     
+Siddiqui,Niloufer A          GONE                                        442-5256 Political Science               Lecturer (10 Month)           01/18/2017 
+                                                                                  Milne 210                          
+Stokes,Jay C                 NEW                                         591-8172 Ctr for Intrn Ed & Globl Strgy  Program Coordinator           02/20/2017 
+                                                                                  SL G40                             
+Yates,Bry-Ann Lynn           CHG-ADDRESS  ITB 102                        437-4763 IT Security                     PrgmAnlyst,Identity&AccessMgm 01/18/2017 
+                                                                                  ITB 103                            
+                         ******** end of report uahrxtel.txt **********                                                                               

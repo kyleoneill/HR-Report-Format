@@ -1,0 +1,43 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 10-FEB-2017 thru 16-FEB-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+Alagesan,Meenakshi           NEW                                         442-3135 Computer Science                Research Scientist            02/15/2017 
+                                                                                  Social Sciences 261C               
+Chelmis,Charalampos          CHG-ADDRESS  LI 67                          437-4948 Computer Science                Assistant Professor 10 Months 01/12/2017 
+                                                                                  University Administration 424B     
+Chow,Sylvia H W              CHG-ADDRESS  251 Fuller Road                437-8700 Atmospheric Sciences Rsch Cente Research Facilitator          01/12/2017 
+                                                                                  CESTM-L116                         
+Dagostino,Steven G           CHG-NAME     D' Agostino,Steven G           442-3072 Athletics Admin                 Game Day Announcer            01/12/2017 
+                                                                                  Physical Education 307             
+Fisher,Brian D               NEW                                         402-4828 Dean's Off-School of Pub Hlt    Research Scientist            02/13/2017 
+                                                                                  East Campus 131                    
+Hwang,Ami J                  CHG-ADDRESS  SL G40                         437-5040 Ctr for Intrn Ed & Globl Strgy  Activities Coordinator        01/12/2017 
+                                                                                  SL G14                             
+Hwang,Ami J                  NEW                                         437-5040 Ctr for Intrn Ed & Globl Strgy  Activities Coordinator        02/16/2017 
+                                                                                  SL G14                             
+Lin,Emily Chih-Han           NEW                                         437-8686 Atmospheric Sciences Rsch Ctr   Research Project Assistant    02/14/2017 
+                                                                                  CESTM L314                         
+Mao,Song                     NEW                                         442-4400 Chemistry                       Postdoctoral Associate        02/14/2017 
+                                                                                  Chemistry 123                      
+Masoumzadeh-Tork,Amirreza    CHG-ADDRESS  LI 96H                         442-3165 Computer Science                Assistant Professor           01/12/2017 
+                                                                                  University Administration 422      
+Narendran,Paliath            CHG-ADDRESS  LI 95B                         437-4936 Computer Science                Professor                     01/12/2017 
+                                                                                  University Administration 411      
+O'Brien,Nancy B              GONE                                        437-4579 Purchasing                      Office Assistant 2            01/12/2017 
+                                                                                  Management Services Center 302     
+Sawyer,Jacob S               CHG-ADDRESS  400 Patroon Creek Blvd Suite 1 442-5800 Counseling  & Psychological Ser Doctoral Psychology Intern    01/12/2017 
+                                                                                  400 Patroon Creek Blvd             
+Seeley,Jason P               NEW                                         442-4445 Chemistry                       Research Project Assistant    02/16/2017 
+                                                                                  Chemistry 123                      
+Skrobela,John L              GONE                                        380-5068 Small Business Development Cent Staff Assistant               02/10/2017 
+                                                                                  6 Executive Park Drive             
+Welch,Constance              GONE                                        442-4404 CAS Technical Services          Office Assistant 1            02/09/2017 
+                                                                                  Chemistry B44                      
+Zheleva,Mariya Z             CHG-ADDRESS  LI 67                          437-4941 Computer Science                Assistant Professor           01/12/2017 
+                                                                                  University Administration 418      
+Zontini,Christina Marie      NEW                                         442-5010 Educational Theory & Practice   Lecturer (10 Month)           02/14/2017 
+                                                                                  Education 114                      
+                         ******** end of report uahrxtel.txt **********                                                                               

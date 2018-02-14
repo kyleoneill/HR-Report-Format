@@ -1,0 +1,65 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 24-MAR-2017 thru 30-MAR-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+Brady,Christopher H          NEW                                         437-3872 Accounting                      Office Assistant 1            03/24/2017 
+                                                                                  Management Services Center 326     
+Correa,Leonardo J.           CHG-NAME     Correa,Leonardo J              442-4222 Languages, Lits. & Cultures     Lecturer (10 Month)           03/29/2017 
+                                                                                  Humanities 235                     
+Dorset,Ian W                 NEW                                         437-3834 Accounting                      Office Assistant 1            03/24/2017 
+                                                                                  Management Services Center 326     
+Drasser,Cassidy L.           CHG-NAME     Drasser,Cassidy L              442-2592 Sustainability                  Asst Dir of Sustainability    03/29/2017 
+                                                                                  Business Administration 309        
+Feldman,Amy B                CHG-ADDRESS  SL G-14                        442-3870 Ctr for Intrn Ed & Globl Strgy  Lecturer (10 Month)           03/29/2017 
+                                                                                  SL G40R                            
+Ferro,Richard E.             CHG-NAME     Ferro,Richard E                442-4600 Mathematics and Statistics      Lecturer (10 Month)           03/29/2017 
+                                                                                  Earth Science 110                  
+Filannino,Michele            CHG-ADDRESS  Draper 114A                    318-9948 Computer Science                Lecturer (10 Month)           03/29/2017 
+                                                                                  University Administration 400      
+Gervais,Norman Andrew        CHG-ADDRESS  Business Administration 310    956-8246 Informatics                     Evergreen Lecturer            03/29/2017 
+                                                                                  Draper 113                         
+Jaremko,William J.           CHG-NAME     Jaremko,William J              378-5053 Chemistry                       Lecturer (10 Month)           03/29/2017 
+                                                                                  793 Lippert Hollow Road            
+Kaul,Aashish                 NEW                                         442-4056 English                         Assistant Professor (10 Mo)   03/28/2017 
+                                                                                  Humanities 333                     
+Kniffin,Laila                CHG-DEPTid   Psychological Services Center  442-2626 Campus Recreation               Secretary 1                   03/28/2017 
+                                                                                  Physical Education B107            
+Kniffin,Laila                NEW                                         442-2626 Campus Recreation               Secretary 1                   03/28/2017 
+                                                                                  Physical Education B107            
+Kniffin,Laila                NEW                                         442-2626 Campus Recreation               Secretary I                   03/24/2017 
+                                                                                  Physical Education B107            
+Lane,Jason E                 CHG-ADDRESS  Education 344                  442-5080 Educational Admin. & Policy St  Associate Professor           03/29/2017 
+                                                                                  Education 320                      
+Mumin,Zahir S.               CHG-NAME     Mumin,Zahir S                  442-4222 Languages, Lits. & Cultures     Lecturer (10 Month)           03/29/2017 
+                                                                                  Humanities 235                     
+Nathan,Myra M                CHG-ADDRESS  Education 232                  442-5052 Educational & Counseling Psycho Lecturer (10 Month)           03/29/2017 
+                                                                                  Education 231                      
+O'Connor,Emily C             CHG-ADDRESS  Humanties 235                  442-4100 Languages, Lits. & Cultures     Office Assistant 1            03/29/2017 
+                                                                                  Humanities 235                     
+Rekemeyer,Benjamin William   CHG-ADDRESS  Dutch Quad                     956-6250 Residential Life                Apartment Coordinator         03/29/2017 
+                                                                                  Empire Commons                     
+Russo,Pasquale N             CHG-ADDRESS  East Campus A217               442-4556 Atmospheric & Environmental Sci Lecturer (10 Month)           03/29/2017 
+                                                                                  Earth Science 351                  
+Ryan,Brianna R.              CHG-NAME     Ryan,Brianna R                 442-3971 Advisement Services Center/ Und Advising PLUS Tutor           03/29/2017 
+                                                                                  LI 36                              
+Schwartz,Robert W            CHG-ADDRESS  Business Administration 323    442-4966 Management                      Lecturer (10 Month)           03/29/2017 
+                                                                                  Business Building 395              
+Sloane,Gail R                NEW                                         442-3245 Rapid Copy Center               Office Assistant 2            03/28/2017 
+                                                                                  Business Administration B26        
+Sumair,Kaleshwar             NEW                                         442-3484 Facilities Management           Painter                       03/28/2017 
+                                                                                  SBA                                
+Travaglione,Leonard          CHG-ADDRESS  Education 216                  442-5050 Counseling Psychology           Lecturer (10 Month)           03/29/2017 
+                                                                                  Education 220                      
+Welty,Richard Paul           CHG-ADDRESS  LI 67                          442-4270 Information Studies             Lecturer (10 Month)           03/29/2017 
+                                                                                  Draper 116                         
+Whittaker,Carol A            CHG-ADDRESS  East Campus 100                402-6479 Dean's Office --School of Publi Lecturer (10 Month)           03/29/2017 
+                                                                                  Health Sciences Campus GEC 100     
+Wiginton,Lindsay M.          CHG-NAME     Wiginton,Lindsay M             591-8172 Ctr for Intrn Ed & Globl Strgy  Program Coordinator           03/29/2017 
+                                                                                  SL G40                             
+Wong,Allen W.                CHG-NAME     Wong,Allen W                   442-4666 Sociology                       Lecturer (10 Month)           03/29/2017 
+                                                                                  Arts & Sciences 351                
+Zontini,Christina Marie      GONE                                        442-5010 Educational Theory & Practice   Lecturer (10 Month)           03/28/2017 
+                                                                                  Education 114                      
+                         ******** end of report uahrxtel.txt **********                                                                               

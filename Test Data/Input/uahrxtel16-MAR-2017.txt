@@ -1,0 +1,19 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 10-MAR-2017 thru 16-MAR-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+Abbott,Ellen M               NEW                                         442-3569 University Libraries            Library Clerk 2               03/10/2017 
+                                                                                  LI-119                             
+Gray,Elizabeth Q             CHG-ADDRESS  Richardson 290                 442-5258 Col EmerPrep Home Sec CybSerc - Assistant Dean                02/14/2017 
+                                                                                  Draper 340                         
+Lansing,Elizabeth Ellen (And CHG-NAME     Anderson,Elizabeth Ellen Lansi 442-4222 Languages, Lits. & Cultures     Lecturer (10 Month)           02/14/2017 
+                                                                                  Humanities 235                     
+Mao,Song                     GONE                                        442-4400 Chemistry                       Postdoctoral Associate        02/14/2017 
+                                                                                  Chemistry 123                      
+Rao,Melissa Lauren           GONE                                        442-3995 Performing Arts Center          Staff Assistant               03/15/2017 
+                                                                                  PAC 266                            
+Van Allen,Rebecca M          CHG-NAME     Pianelli,Rebecca M             442-4032 Downtown Campus Maintenance     Maintenance Helper            02/14/2017 
+                                                                                  SBA                                
+                         ******** end of report uahrxtel.txt **********                                                                               

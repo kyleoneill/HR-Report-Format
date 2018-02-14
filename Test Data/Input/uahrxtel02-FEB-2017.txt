@@ -1,0 +1,65 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 27-JAN-2017 thru 02-FEB-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+All,Michael J                GONE                                        437-4746 Grounds                         Grounds Worker                12/29/2016 
+                                                                                  SBA - Liberty Terrace Apartments   
+Brewer,Samantha L            GONE                                        442-5333 Student Engagement              Secretary I                   12/29/2016 
+                                                                                  Lecture Center 31                  
+Button,Graham Joseph         GONE                                        473-8818 Natl Cntr-Scrty & Preparedness  Project Coordinator, Training 01/27/2017 
+                                                                                  40 North Pearl St., 13th Floor     
+Button,Graham Joseph         NEW                                         473-8818 Professional Development Prog   Training Program Coordinator  01/31/2017 
+                                                                                  40 North Pearl St., 13th Floor     
+Chatterjee,Soumyadeb         NEW                                         442-4926 Economics                       Research Project Assistant    01/31/2017 
+                                                                                  Business Administration 113B       
+Choi,Jaeyong                 CHG-NAME     Choi,JaeYong                   442-4600 Mathematics and Statistics      Lecturer (10 Month)           12/29/2016 
+                                                                                  Earth Science 110                  
+Clarke,Andrea S              CHG-NAME     Daley,M. Andrea                442-5100 Literacy Teaching and Learning  Lecturer (10 Month)           12/29/2016 
+                                                                                  Education 336                      
+Connors,Annie E              NEW                                         442-4865 Psychology                      Academic Advisement Assistant 01/27/2017 
+                                                                                  Social Sciences 399B               
+Cozine,Tammy M               NEW                                         442-3708 Custodial Services              Cleaner                       01/30/2017 
+                                                                                  SBA                                
+DeRensis,Michael             GONE                                        437-3843 Graduate Studies                Asst Dean for Grad Enroll Mgt 01/05/2017 
+                                                                                  University Administration 121      
+Galfano,Andrew Joseph        NEW                                         442-5180 Educational Opportunity Prgrm   Research Aide                 01/31/2017 
+                                                                                  LI94                               
+Juman,Brian Keith            NEW                                                  Disability Resource Center      Office Assistant 1            01/27/2017 
+                                                                                                                     
+Jupin,Amy R                  GONE                                        442-5333 Student Engagement              Technical Assistant (CSL)     01/31/2017 
+                                                                                  Lecture Center 31                  
+Martiniano,Robert P          CHG-ADDRESS  East Campus 220                474-2744 Dean's Office --School of Publi Lecturer (10 Month)           12/29/2016 
+                                                                                  Health Sciences Campus GEC 100     
+McCann,Ke-Myra Vernice Love  GONE                                        442-3200 Billing & Account Maintenance   Senior Staff Assistant        12/14/2016 
+                                                                                  Campus Center 26                   
+Olsen-Novak,Diane M          GONE                                        442-3029 Client Support Services         Office Assistant 2            12/29/2016 
+                                                                                  Lecture Center 27B                 
+Ponomarov,Ruslan             GONE                                        442-3444 Utilities Plant                 Plant Utilities Assistant     12/29/2016 
+                                                                                  SBA Power Plant                    
+Prasad,Aparna G              GONE                                        442-4300 Biology                         Research Assistant 08         01/31/2017 
+                                                                                  Biology 354                        
+Santos,Leiry M               CHG-ADDRESS  Indain Quad                    442-5830 Residential Life                Residence Hall Director       12/29/2016 
+                                                                                  Freedom Apartments                 
+Sawyer,Tina M                GONE                                        442-4972 CAS Technical Services          Stores & Mail Operations Supe 12/30/2016 
+                                                                                  Chemistry 110                      
+Singh,Priyanka               NEW                                         437-4943 Computer Science                Postdoctoral Researcher       01/30/2017 
+                                                                                  University Administration 421      
+Tupe,Alqi                    GONE                                        442-3288 Custodial Services              Cleaner                       12/29/2016 
+                                                                                  SBA                                
+Welch,Constance              GONE                                        442-4404 CAS Technical Services          Office Assistant 1            01/26/2017 
+                                                                                  Chemistry B44                      
+White,Andrea E               GONE                                        956-8400 Student Health Services         Nurse 1                       12/29/2016 
+                                                                                  400 Patroon Creek Blvd Suite 200   
+Wiginton,Lindsay M           GONE                                        591-8172 Ctr for Intrn Ed & Globl Strgy  Staff Assistant               01/30/2017 
+                                                                                  SL G40                             
+Wolf,Wendy N                 GONE                                        402-0281 Dean's Office --School of Publi Office Assistant 1            01/27/2017 
+                                                                                  East Campus GEC 100                
+Wolf,Wendy N                 NEW                                         402-0281 Dean's Off-School of Pub Hlt    Office Assistant 1            01/30/2017 
+                                                                                  East Campus GEC 100                
+Yang,Yang                    GONE                                        442-4400 Chemistry                       Postdoctoral Associate        01/31/2017 
+                                                                                  Life Science Building 1118         
+Zakolli,Dorina               NEW                                         442-3298 Custodial Services              Cleaner                       01/30/2017 
+                                                                                  SBA                                
+                         ******** end of report uahrxtel.txt **********                                                                               

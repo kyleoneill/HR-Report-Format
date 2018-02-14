@@ -1,0 +1,39 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 05-MAY-2017 thru 11-MAY-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+All,Matthew E                NEW                                         442-3417 Grounds                         Grounds Worker                05/10/2017 
+                                                                                  SBA                                
+Bardhi,Stefan                NEW                                         442-3409 Custodial Services              Cleaner                       05/10/2017 
+                                                                                  SBA                                
+Boysen,Ashley Nicole         CHG-NAME     DeSantis,Ashley Nicole         437-4425 Registrar's Office              Assistant Registrar           05/10/2017 
+                                                                                  Campus Center B52                  
+Cela,Denis                   NEW                                         442-3708 Custodial Services              Cleaner                       05/08/2017 
+                                                                                  SBA                                
+DeLisle,Cameron J            NEW                                         442-3487 Electrical Shop                 Maintenance Assistant         05/10/2017 
+                                                                                  SBA                                
+DeMarco,Marissa M            NEW                                         442-2932 Custodial Services              Cleaner                       05/10/2017 
+                                                                                  SBA                                
+Hanson,Matthew J             NEW                                         442-3286 Facilities Management           Maintenance Helper            05/10/2017 
+                                                                                  SBA                                
+Jaime-Benitez,Karla M        CHG-ADDRESS  Eastman                        442-5491 Campus Center                   Assoc Dir Campus Ctr Mgnt     05/10/2017 
+                                                                                  Campus Center 137                  
+Kampula,Pellumb              NEW                                         442-3708 Custodial Services              Cleaner                       05/08/2017 
+                                                                                  SBA                                
+Marciano,Rocco C             NEW                                         442-3487 Electrical Shop                 Maintenance Assistant         05/10/2017 
+                                                                                                                     
+Mayer,Lynn R                 GONE                                        437-4773 Client Support Services         Assoc Dir IT Support &Trainin 05/10/2017 
+                                                                                  Management Services Center 212     
+Nolan,Collin E               NEW                                         442-5870 Residential Life                Office Assistant 1 (Keyboardi 05/09/2017 
+                                                                                  State Quad                         
+Perrott,Ryan J               GONE                                        437-4713 Human Resources Management      Payroll Assnt                 04/10/2017 
+                                                                                  University Administration 300      
+Wilson,Nancy J               GONE                                        956-8120 Financial Management & Budget   Technical Assistant (CSL)     05/08/2017 
+                                                                                  University Hall 212                
+Wolff,Rebecca                CHG-NAME     Wolff,Rebecca M                442-5620 NYS Writers Institute           Staff Assistant               05/10/2017 
+                                                                                  SL 320                             
+Yu,Wei                       GONE                                                 Computer Science                Software Engineer             05/08/2017 
+                                                                                  University Administration 400      
+                         ******** end of report uahrxtel.txt **********                                                                               

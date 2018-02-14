@@ -1,0 +1,33 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 21-APR-2017 thru 27-APR-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+Brady,Christopher H          GONE                                        437-3872 Accounting                      Office Assistant 1            03/24/2017 
+                                                                                  Management Services Center 326     
+Derrane,James P              NEW                                         956-8180 Natl Cntr-Scrty & Preparedness  Subj Matter Expert Instruct   04/27/2017 
+                                                                                  4 Tower Place Suite 600            
+Dorset,Ian W                 GONE                                        437-3834 Accounting                      Office Assistant 1            03/24/2017 
+                                                                                  Management Services Center 326     
+Green,Cathleen Maria         CHG-DEPTid   02009                          591-8833 Biology                         Research Project Assistant    04/24/2017 
+                                                                                  Life Science Building 2060         
+Jaime-Benitez,Karla M        CHG-DEPTid   Residential Life               442-5875 Campus Center                   Assoc Dir Campus Ctr Mgnt     04/27/2017 
+                                                                                  Eastman                            
+Kniffin,Laila                GONE                                        442-2626 Campus Recreation               Secretary I                   03/24/2017 
+                                                                                  Physical Education B107            
+LaPolt,Richelle L            NEW                                         442-3568 University Libraries            Secretary II                  04/25/2017 
+                                                                                  LI-122                             
+Maldonado,Alaina N           GONE                                        442-3995 Performing Arts Center          Office Assistant 1            04/24/2017 
+                                                                                  PAC 266                            
+O'Brien,Christopher W        GONE                                        442-3029 Client Support Services         Office Assistant 1            04/25/2017 
+                                                                                  Lecture Center 27B                 
+Trottier,Michael G           NEW                                         956-8180 Natl Cntr-Scrty & Preparedness  Instructor                    04/27/2017 
+                                                                                  4 Tower Place Suite 600            
+Van Allen,Holly D            CHG-ADDRESS  ITB 102                        437-4547 Enterprise Application Services App Proj Manager              04/24/2017 
+                                                                                  University Administration 330      
+Van Allen,Holly D            CHG-DEPTid   Telephone Systems              437-4547 Enterprise Application Services App Proj Manager              04/24/2017 
+                                                                                  University Administration 330      
+Wolf,Wendy N                 GONE                                        402-0281 Dean's Office --School of Publi Office Assistant 1            04/21/2017 
+                                                                                  Health Sciences Campus GEC 100     
+                         ******** end of report uahrxtel.txt **********                                                                               

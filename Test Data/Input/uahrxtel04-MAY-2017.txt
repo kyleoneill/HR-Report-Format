@@ -1,0 +1,69 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 28-APR-2017 thru 04-MAY-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+Asselin,Martha J             CHG-NAME     Asselin,Martha J.              442-5445 Student Involvement & Leadershi Dir, Ctr leadership & Svc     05/04/2017 
+                                                                                  Fine Arts 34                       
+Asselin,Martha J             NEW                                         442-5445 Student Involvement & Leadershi Dir, Ctr leadership & Svc     05/02/2017 
+                                                                                  Fine Arts 34                       
+Asselin,Martha J             NEW                                         442-5445 Vice Pres for Student Affairs   Dir, Ctr for Leadership & Svc 04/28/2017 
+                                                                                  Fine Arts 34                       
+Baird,Richard E              GONE                                        442-2932 Grounds                         Grounds Worker                05/03/2017 
+                                                                                  SBA                                
+Bardhi,Stefan                NEW                                         442-3409 Custodial Services              Cleaner                       04/28/2017 
+                                                                                  SBA                                
+Carson,Stephanie             CHG-NAME     Carson,Stephanie A             437-3911 Career & Professional Developme Employer Relations Coordinato 05/04/2017 
+                                                                                  SL G-50                            
+Curtin,Thomas G              GONE                                        442-3400 Facilities Management           Maintenance Assistant         04/28/2017 
+                                                                                  SBA                                
+Davis,Nancy Rebecca          GONE                                        442-3616 University Libraries            Library Clerk 3               05/03/2017 
+                                                                                  LI 119                             
+Dunbar,Ashley Rose           CHG-NAME     Dunbar,Ashley R                442-5766 Parking & Mass Transit Services Office Assistant 1            05/04/2017 
+                                                                                  Parking Management                 
+Fikiet,Marisia Ann           NEW                                         442-4442 Chemistry                       Research Project Assistant    05/03/2017 
+                                                                                  LSRB 1107                          
+Franklin Jr.,David           CHG-DEPTid   02309                          442-5055 Educational & Counseling Psych  Research Project Assistant    05/04/2017 
+                                                                                  Education 233                      
+Gillespie,Cory D             GONE                                        442-5435 Admissions                      Office Assistant 1            05/01/2017 
+                                                                                  University Administration 120      
+Glean,Sharnell M             GONE                                        591-8182 Ctr for Intrn Ed & Globl Strgy  Office Assistant 1            05/01/2017 
+                                                                                  SL G20                             
+Goldberg,Matthew Charles     NEW                                         956-8180 Natl Cntr-Scrty & Preparedness  Project Coordinator - Trainin 05/02/2017 
+                                                                                  4 Tower Place Suite 600            
+Gorczyca,James R             CHG-ADDRESS  SBA                            442-3444 HVAC (Heating, Ventilation and  Maintenance Assistant         05/04/2017 
+                                                                                  SBA Power Plant                    
+Grant,James J                NEW                                         442-3482 Carpentry Shop                  General Mechanic              05/04/2017 
+                                                                                  SBA                                
+Hale,David                   GONE                                        442-3413 Moving & Trucking               Laborer                       05/04/2017 
+                                                                                  Social Sciences B26                
+Jilledumudi,Jahnavi          GONE                                        437-4537 Enterprise Application Services Senior Programmer/Analyst     05/03/2017 
+                                                                                  University Administration 316      
+King,Brian P                 NEW                                         442-3596 University Libraries            Office Assistant 1            05/04/2017 
+                                                                                  LI - SB23                          
+Marcantonio,Michael B        GONE                                        442-5435 Admissions                      Office Assistant 1            05/01/2017 
+                                                                                  University Administration 120      
+Ntungu,Ruganza Moise         GONE                                        442-3296 Custodial Services              Cleaner                       05/02/2017 
+                                                                                  SBA                                
+Ntungu,Ruganza Moise         GONE                                        442-3296 Custodial Services              Cleaner                       05/03/2017 
+                                                                                  SBA                                
+Ntungu,Ruganza Moise         NEW                                         442-3296 Custodial Services              Cleaner                       05/02/2017 
+                                                                                  SBA                                
+Orologio,Joann L             GONE                                        442-5055 Educational Psychology & Method Secretary I                   04/28/2017 
+                                                                                  Education 233                      
+Rio-Glick,Barbara A          CHG-ADDRESS  Richardson 204                 442-3488 School of Social Welfare        Senior Staff Assistant        05/04/2017 
+                                                                                  Richardson 183                     
+Rowan,Dawn C                 GONE                                        442-4651 Dean's Office--College of Arts  Senior Staff Assistant        05/03/2017 
+                                                                                  Arts & Sciences 217                
+Scandaliato,Thomas Jude      NEW                                         956-8180 Natl Cntr-Scrty & Preparedness  Project Coordinator - Trainin 05/02/2017 
+                                                                                  4 Tower Place Suite 600            
+Schwab,Margaret J            CHG-ADDRESS  CESTM   L122                   437-8705 Atmospheric Sciences Rsch Cente Instructional Support Associa 05/04/2017 
+                                                                                  CESTM L-122                        
+Sloane,Gail R                GONE                                        442-3245 Rapid Copy Center               Office Assistant 2            03/28/2017 
+                                                                                  Business Administration B26        
+Van Cleef,Morgan             GONE                                        402-0330 School of Public Health Continu Project Manager               05/03/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Zhang,Yu                     NEW                                         442-4666 Sociology                       Sr Research Support spec      05/04/2017 
+                                                                                  Computer science department        
+                         ******** end of report uahrxtel.txt **********                                                                               

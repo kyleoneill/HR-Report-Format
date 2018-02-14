@@ -1,0 +1,89 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 31-MAR-2017 thru 06-APR-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+Andrews,William P            CHG-ADDRESS  Draper 219                     442-5210 School of Criminal Justice      Lecturer (10 Month)           03/31/2017 
+                                                                                  Draper 219A                        
+Baez,Jeffrey Richard         GONE                                        442-3171 Information Technology Manageme Lecturer (10 Month)           03/31/2017 
+                                                                                  Business Building 334              
+Bates,Barbara                GONE                                        402-0330 School of Public Health Continu PRI Instructor                03/31/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Biggi,Sandra L               GONE                                        402-0281 School of Public Health Continu PRI Instructor                03/31/2017 
+                                                                                  Health Sciences Campus 100         
+Boemio,Armando Guiseppe      GONE                                        442-3486 Plumbing & Refrigeration Shop   Maintenance Assistant         04/04/2017 
+                                                                                  SBA                                
+Brady,Christopher H          NEW                                         437-3872 Accounting                      Office Assistant 1            04/03/2017 
+                                                                                  Management Services Center 326     
+Brancato,Christopher T       GONE                                        402-0330 School of Public Health Continu PRI Instructor                03/31/2017 
+                                                                                  East Campus GEC 200                
+Breidster,Rachel Amy         GONE                                        402-4203 School of Public Health Continu Moderator                     03/31/2017 
+                                                                                  East Campus                        
+Cashman,Donna M              GONE                                        402-0330 School of Public Health Continu Nurse Planner                 03/31/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Concepcion,Miguel A          GONE                                        437-4700 Human Resources Management      Payroll Examiner 1            04/05/2017 
+                                                                                  University Administration 300      
+Dorset,Ian W                 NEW                                         437-3834 Accounting                      Office Assistant 1            04/05/2017 
+                                                                                  Management Services Center 326     
+Fossner,Lily Sophia          GONE                                        442-4200 Music and Theatre               Lecturer (10 Month)           04/05/2017 
+                                                                                  PAC 262                            
+Gasper,Paul M                GONE                                        442-4400 Chemistry                       Postdoctoral Associate        03/31/2017 
+                                                                                  Life Science Building 2033E        
+Griffin,Amy Lynn             CHG-ADDRESS  Fine Arts 216                  442-4020 Art & Art History               Lecturer (10 Month)           03/31/2017 
+                                                                                  Arts & Sciences 218                
+Jacobs,Jeannine Nicole       NEW                                         402-0281 Dean's Office --School of Publi Staff Assistant               04/01/2017 
+                                                                                  Health Sciences Campus GEC 100     
+Kavanaugh,Joseph F           GONE                                        442-4600 Capital Area School Dvlp Assoc  Associate in School Leadershi 03/02/2017 
+                                                                                  Earth Science 128A                 
+Knapton,Dean W               GONE                                        442-5535 Registrar's Office              Associate College Registrar   03/31/2017 
+                                                                                  Campus Center B52                  
+Kokabee,Leila                GONE                                        591-7164 Biomedical Science              Postdoctoral Associate        03/31/2017 
+                                                                                  Health Sciences Campus CRC 305     
+Kokabee,Leila                NEW                                         591-7164 Environmental Health Sciences   Postdoctoral Associate        04/03/2017 
+                                                                                  Health Sciences Campus CRC 305     
+Lue,Joanne V                 GONE                                        442-4035 Art Museum                      Keyboard Spec 1               03/31/2017 
+                                                                                  Fine Arts 101                      
+Marchand,Mark A              CHG-ADDRESS  Humanities 333                 442-4056 Communication                   Lecturer (10 Month)           03/31/2017 
+                                                                                  Social Sciences 351                
+Matias,Leah R                GONE                                        402-0330 School of Public Health Continu PRI Instructor                03/31/2017 
+                                                                                  Health Sciences Campus GEC 200     
+McMahon Jr,Edmund A          GONE                                        442-3822 Architecture, Engineering & Con Maintenance Assistant         04/05/2017 
+                                                                                  SBA                                
+Moller,Robin A               GONE                                        02330    School of Public Health Continu PRI Instructor                03/31/2017 
+                                                                                  East Campus GEC 200                
+Nieves,Carmen Eugenia        CHG-NAME     Nieves,Carmen E                442-4890 Languages, Lits. & Cultures     Lecturer (10 Month)           03/31/2017 
+                                                                                  Social Sciences 250                
+Oswald,Meagan Lee            GONE                                        525-2628 Student Loan Service Center     Office Assistant 1            03/03/2017 
+                                                                                  Health Sciences Campus             
+Oswald,Meagan Lee            GONE                                        525-2628 Student Loan Service Center     Office Assistant 1            04/03/2017 
+                                                                                  Health Sciences Campus             
+Pettis,Jennifer L            GONE                                        402-0330 School of Public Health Continu Gold Stamp Instructor         03/31/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Rathka,Aimee L               GONE                                        402-0330 School of Public Health Continu PRI Instructor                03/31/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Robbins,Mark P               GONE                                        402-0330 School of Public Health Continu PRI Instructor                03/31/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Romano,Annette M             NEW                                         512-5198 Capital Area School Dvlp Assoc  Associate in School Leadershi 03/02/2017 
+                                                                                  East Campus A-409                  
+Schlegel,Marcus John         GONE                                        442-4187 Music and Theatre               Lecturer (10 Month)           04/05/2017 
+                                                                                  PAC B-04                           
+Stern,Eric K                 CHG-ADDRESS  Richardson 290                 442-5258 Col EmerPrep Home Sec CybSerc - Professor 10 Months           03/31/2017 
+                                                                                  Draper 340                         
+Sumair,Kaleshwar             NEW                                         442-3484                                 Painter                       04/06/2017 
+                                                                                  SBA                                
+Sumair,Kaleshwar             NEW                                         442-3484 Paint & Sign Shop               Painter                       04/06/2017 
+                                                                                  SBA                                
+Wicklund,Deanna R            NEW                                         956-7942 Marketing Services & Licensing  Graphic Designer              04/05/2017 
+                                                                                  University Administration 201      
+Winn,Mary Beth               CHG-ADDRESS  Emeritus - NONE                442-4222 Languages, Lits. & Cultures     Prof Emerita/O'Leary Professo 03/31/2017 
+                                                                                  Humanities 235                     
+Winston,Linda J              GONE                                        02330    School of Public Health Continu SPH Cont'g Educ Inst          03/31/2017 
+                                                                                  Health Sciences Campus GEC 200     
+Wojna,Linda A                GONE                                        442-3980 Graduate Admissions             Office Assistant 1            04/05/2017 
+                                                                                  University Administration 121      
+Young,Michael D              CHG-ADDRESS  Richardson 290                 442-5258 Col EmerPrep Home Sec CybSerc - Assistant Professor           03/31/2017 
+                                                                                  Draper 340                         
+Zobel,Karen M                GONE                                        402-0330 School of Public Health Continu PRI/Screen Trainer            03/31/2017 
+                                                                                  Health Sciences Campus GEC 200     
+                         ******** end of report uahrxtel.txt **********                                                                               

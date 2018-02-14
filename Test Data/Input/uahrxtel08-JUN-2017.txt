@@ -1,0 +1,79 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 02-JUN-2017 thru 08-JUN-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+Acevedo,Christina Marie      NEW                                         442-3797 School of Social Welfare        Research Project Assistant    06/08/2017 
+                                                                                  Richardson 117                     
+Adler,Miriam R               GONE                                        442-5321 School of Social Welfare        Field Liaison                 06/07/2017 
+                                                                                  Richardson 115                     
+Bove,Liza M                  GONE                                        442-5320 School of Social Welfare        Field Liaison                 06/07/2017 
+                                                                                  Richardson 121                     
+Breznak,Shane Matthew        NEW                                         442-4305 Biology                         Research Project Assistant    06/05/2017 
+                                                                                  Biology 126                        
+Brown,Pierre D               CHG-ADDRESS  Biology 001                    442-4148 University in the High School   Office Assistant 1            05/03/2017 
+                                                                                  Colonial Quad Livingston Tower 101 
+Buitrago,Johanna             NEW                                         442-5900 Educational Opportunity Prgrm   Project Aide                  06/07/2017 
+                                                                                  Dutch Quad Mb# 0164                
+Cela,Denis                   GONE                                        442-3708 Custodial Services              Cleaner                       05/08/2017 
+                                                                                  SBA                                
+Clinton,Amelia M.            GONE                                        442-5426 Public Administration & Policy  Editorial Assistant           06/01/2017 
+                                                                                  Milne 101                          
+Coonley,Donna M              GONE                                        442-5321 School of Social Welfare        Field Liaison                 06/07/2017 
+                                                                                  Richardson 117                     
+Dudley,Peter J               GONE                                        442-3059 Athletics Admin                 Videographer                  06/01/2017 
+                                                                                  Physical Education 133             
+Egger-Aimone,Ellen S         GONE                                        442-5321 School of Social Welfare        Field Liaison                 06/07/2017 
+                                                                                  Richardson 115                     
+Fernandez,Sabrina            NEW                                         442-5940 Educational Opportunity Prgrm   Project Aide                  06/05/2017 
+                                                                                  LI94                               
+Gaunt,Kyra D                 NEW                                         442-4187 Music & Theatre                 Assistant Professor (10 Mo)   06/05/2017 
+                                                                                  PAC 313                            
+Gentile,Kaitlyn              GONE                                        591-8652 Athletics Admin                 Asst Coach Softball           06/01/2017 
+                                                                                  Physical Education 123             
+Golas,Maria Catherine        GONE                                        442-5334 School of Social Welfare        Field Liaison                 06/07/2017 
+                                                                                  Richardson 115                     
+Grant,James J                GONE                                        442-3482 Carpentry Shop                  General Mechanic              05/04/2017 
+                                                                                  SBA                                
+Hetzel,Emily Margaret        GONE                                        442-3852 Public Administration & Policy  Research Assistant 08         06/07/2017 
+                                                                                  Milne 300                          
+Hoxha,Jona                   CHG-ADDRESS  Milne 300                      442-3850 Center for Policy Research      Research Assistant 08         05/03/2017 
+                                                                                  Milne 323                          
+Hoxha,Jona                   NEW                                         442-3850 Center for Policy Research      Research Assistant 08         06/07/2017 
+                                                                                  Milne 323                          
+Kim,Youngsung                NEW                                         443-5522 Center for Policy Research      Senior Research Aide          06/02/2017 
+                                                                                  411 State Street                   
+King,Brian P                 GONE                                        442-3596 University Libraries            Office Assistant 1            05/04/2017 
+                                                                                  LI - SB23                          
+Kyea,Jeannette M             GONE                                        442-3417 Grounds                         Grounds Worker                05/04/2017 
+                                                                                  SBA                                
+Lee,Jooyeon                  NEW                                         442-4270 Health Policy                   Research Project Assistant    06/02/2017 
+                                                                                  Empire State Plaza Corning Tower 34
+Liu,Wen                      NEW                                         442-4220 Women's, Gender & Sexuality St  Assistant Professor (12 Mo)   06/06/2017 
+                                                                                  Humanities 355                     
+Luntta,Karl                  GONE                                        956-8150 News & Communications           Staff Asc/Media Relations Dir 06/02/2017 
+                                                                                  University Hall 203F               
+Marso,Joan L                 NEW                                         442-3112 Political Science               Office Assistant 1            06/06/2017 
+                                                                                  Humanities B-16                    
+Metsch,Wayne B               GONE                                        442-5321 School of Social Welfare        Field Liaison                 06/07/2017 
+                                                                                  Richardson 115                     
+Moeske,Charles E             GONE                                        442-3450 Grounds                         Senior Grounds Worker         05/04/2017 
+                                                                                  SBA                                
+Nieves,Ismael                NEW                                         437-4746 Facilities Management           Cleaner                       06/06/2017 
+                                                                                  SBA                                
+Quinones-Nieves,Felix        NEW                                         442-5055 Ctr for Human Srvcs Res & Eval  Research Project Assistant    05/03/2017 
+                                                                                  Education 233                      
+Riggins,Shemisha S           NEW                                         402-0283 Dean's Off-School of Pub Hlt    Office Assistant 1            06/08/2017 
+                                                                                  Health Sciences Campus GEC 100     
+Saulnier,Gary J              CHG-ADDRESS  LI 84                          442-3176 Computer Engineering            Professor & Chair, Computer E 05/03/2017 
+                                                                                  LI 84B                             
+Simpson,Michelle             GONE                                        442-3017 Field Hockey                    Division I Assistant Coach    06/02/2017 
+                                                                                  Physical Education 339             
+Telesca,Terry A              CHG-ADDRESS  University Hall 203            956-8150 Vice President Communications a Secretary I                   05/03/2017 
+                                                                                  Management Services Center 209     
+Torres,Mitchell Benjamin     NEW                                         442-4648 Chemistry                       Research Project Assistant    06/06/2017 
+                                                                                  Chemistry 123                      
+Turski,Ashley R              CHG-ADDRESS  Arts & Sciences 351            442-4666 Sociology                       Office Assistant 2 (Keyboardi 05/03/2017 
+                                                                                  Earth Science 351                  
+                         ******** end of report uahrxtel.txt **********                                                                               

@@ -1,0 +1,65 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 24-FEB-2017 thru 02-MAR-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+Balasco,Pamela J             CHG-ADDRESS  Management Services Center 203 442-3195 Accounting                      Secretary I                   02/01/2017 
+                                                                                  Management Services Center 326     
+Bushee,William J             GONE                                        442-3400 Fire Safety                     Maintenance Helper            02/28/2017 
+                                                                                  SBA                                
+Cashman,Donald P             CHG-ADDRESS  Humanities 355                 442-4130 History                         Lecturer (10 Month)           02/01/2017 
+                                                                                  Socail Sciences 138B               
+Cozine,Tammy M               NEW                                         442-3708 Custodial Services              Cleaner                       01/30/2017 
+                                                                                  SBA                                
+Crounse,Geraldine A          GONE                                        442-4301 Facilities Management           Office Assistant 1            02/24/2017 
+                                                                                  SBA                                
+Dawes,Sharon S               GONE                                        442-3892 Public Administration & Policy  Staff Assistant-BIW           02/28/2017 
+                                                                                  Center for Technology in Government
+Dearr,Mackenzie G            GONE                                        956-6250 Space Management & Campus Prese Staff Assistant               03/01/2017 
+                                                                                  Empire Commons                     
+Goebel,Lucas G               NEW                                         442-3444 Utilities Plant                 Plant Utilities Assistant     01/26/2017 
+                                                                                  SBA                                
+Himmelreich,Troy I           GONE                                        442-3482 Carpentry Shop                  Maintenance Assistant         02/28/2017 
+                                                                                  SBA                                
+Hunt,Mary C                  GONE                                        442-5264 Provost & VP- Academic Affairs  Senior Staff Assistant        03/01/2017 
+                                                                                  Milne 107                          
+Jenkins,Alexander C          GONE                                        442-3407 Paint & Sign Shop               Maintenance Assistant         02/28/2017 
+                                                                                  SBA                                
+Juman,Brian Keith            GONE                                        442-5490 Disability Resource Center      Office Assistant 1            01/27/2017 
+                                                                                  Business Administration 120        
+Kissee,Vanessa D             GONE                                        442-5321 School of Social Welfare        Lecturer (10 Month)           03/02/2017 
+                                                                                  Richardson 116                     
+Lopresti,Frank               GONE                                        442-3400 Fire Safety                     Maintenance Helper            02/27/2017 
+                                                                                  SBA                                
+Lounello,Kristina            CHG-ADDRESS  Management Services Center 203 437-3884 Athletics Admin                 Staff Assistant               02/01/2017 
+                                                                                  Management Services Center 326     
+Mason,David F                CHG-ADDRESS  Management Services Center 203 442-3195 Accounting                      Deputy Controller/Dir Acctng  02/01/2017 
+                                                                                  Management Services Center 326     
+Negrich Jr.,Samuel William   GONE                                        442-3450 Grounds                         Grounds Worker                02/24/2017 
+                                                                                  SBA                                
+Norris,Heidi M               CHG-ADDRESS  Management Services Center 203 437-3875 Accounting                      Office Assistant 3            02/01/2017 
+                                                                                  Management Services Center 326     
+Reilly,Dylan J               GONE                                        442-3400 Fire Safety                     Maintenance Helper            02/28/2017 
+                                                                                  SBA                                
+Ross,Lisa M                  GONE                                        442-2586 Information Technology Manageme Grant Writer                  03/01/2017 
+                                                                                  Business Administration 365        
+Rusch,Albert Marlowe         NEW                                         442-3569 University Libraries            Circulation Services Asst     03/01/2017 
+                                                                                  LI-118                             
+Strunkey,Tracy               NEW                                         442-3282 Custodial Services              Cleaner                       02/01/2017 
+                                                                                  SBA                                
+Thayer,Susan J               CHG-ADDRESS  Management Services Center 216 442-3196 Sponsored Programs Administrati Purchasing Asst               02/01/2017 
+                                                                                  Management Services Center 100A    
+Torres,Rosalyn               GONE                                        442-2932 Custodial Services              Cleaner                       02/02/2017 
+                                                                                  SBA                                
+Townsend,Richard L           GONE                                        442-3400 Facilities Management           Maintenance Assistant         02/23/2017 
+                                                                                  Emeritus - NONE                    
+Watters,Andrew Irving        GONE                                        442-3492 University Libraries            Instructional Support Associa 02/28/2017 
+                                                                                  LI B35A                            
+Williams,Marlene Z           CHG-ADDRESS  Management Services Center 220 437-3835 Sponsored Programs Administrati Admin Staff Associate         02/01/2017 
+                                                                                  Management Services Center 100A    
+Wolf,Wendy N                 GONE                                        402-0281 Dean's Off-School of Pub Hlt    Office Assistant 1            01/30/2017 
+                                                                                  East Campus GEC 100                
+Zakolli,Dorina               NEW                                         442-3298 Custodial Services              Cleaner                       01/30/2017 
+                                                                                  SBA                                
+                         ******** end of report uahrxtel.txt **********                                                                               

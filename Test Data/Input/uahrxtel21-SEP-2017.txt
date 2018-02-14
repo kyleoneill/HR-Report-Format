@@ -1,0 +1,191 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 15-SEP-2017 thru 21-SEP-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+Acevedo,Silvestre            GONE                                        442-5210 School of Criminal Justice      Lecturer (10 Month)           09/08/2017 
+                                                                                  Draper 219                         
+Afram,Gifty                  NEW                                         442-5180 Educational Opportunity Prgrm   Research Aide                 09/20/2017 
+                                                                                  LI 94                              
+Ahmed,Faraz A                NEW                                         437-4475 Biology                         Bioinformatics Support Spec.  09/21/2017 
+                                                                                  Life Science Building 1012         
+Applyrs,Dorcey L             NEW                                         402-0333 Health Policy                   Clinical Assistant Professor  09/20/2017 
+                                                                                  East Campus GEC 177                
+Banta,Melissa A              GONE                                        442-3409 Custodial Services              Cleaner                       08/10/2017 
+                                                                                  SBA                                
+Barron,Laura                 CHG-ADDRESS  University Administration 312  437-3841 Enterprise Application Services Senior Solutions Specialist   08/15/2017 
+                                                                                  Management Services Center 203     
+Behr,Leonard V               CHG-ADDRESS  Biology 001                    442-4148 University in the High School   UHS Science Res. Dir./Liaison 08/15/2017 
+                                                                                  Management Services Center 312     
+Bollapragada,Hiranmai        CHG-ADDRESS  University Administration 316  437-3852 Enterprise Application Services Senior Programmer/Analyst     08/15/2017 
+                                                                                  Management Services Center 203     
+Booth,Roxanne J              CHG-ADDRESS  Business Administration 115    442-4730 Africana Studies                Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 161               
+Bryan,Mark E                 CHG-ADDRESS  Business Administration 364    442-4688 CAS Computing Services          Desktop Support Specialist    08/15/2017 
+                                                                                  Biology B001G                      
+Bulko,Kenneth                CHG-ADDRESS  Business Administration 109    442-4735 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Capece,Anthony J             NEW                                         956-8320 Information Technology Mngt     Research Aide                 09/19/2017 
+                                                                                  Business Building134               
+Comley,Jeff C                CHG-ADDRESS  University Administration 335  437-3817 Enterprise Infrastructure Servi Database Administrator        08/15/2017 
+                                                                                  Management Services Center 203     
+Cowie,Adam M                 CHG-ADDRESS  Business Administration 364    442-3522 CAS Computing Services          Lead Programmer-Analyst       08/15/2017 
+                                                                                  Biology 001                        
+Cummings,Michelle A          CHG-ADDRESS  Business Administration 110    442-4158 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Das,Sandwip K                CHG-ADDRESS  Business Administration 129D   442-4737 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Davis,Jacqueline             CHG-ADDRESS  Business Administration 115    442-4730 Africana Studies                Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 161               
+Dzikowski,Michael John       CHG-ADDRESS  University Administration 312  437-4510 Enterprise Application Services Senior Programmer/Analyst     08/15/2017 
+                                                                                  Management Services Center 203     
+Echevarria,Brittanyliz       NEW                                         442-5180 Educational Opportunity Prgrm   Research Project Assistant    09/20/2017 
+                                                                                  LI 94                              
+Essien,Frank                 CHG-ADDRESS  Business Administration 115    442-4730 Africana Studies                Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 161               
+Farrell,Paul J               CHG-ADDRESS  Business Administration 364    442-5512 CAS Computing Services          Senior Programmer/Analyst     08/15/2017 
+                                                                                  Biology 001                        
+Ferraro,Amy B                CHG-ADDRESS  Management Services Center 203 437-3886 Accounting                      Office Assistant 1            08/15/2017 
+                                                                                  Management Services Center 326     
+Gaines,Eugene D              GONE                                        442-3444 HVAC (Heating, Ventilation and  Plant Utilities Engineer 1    09/21/2017 
+                                                                                  SBA                                
+Garcia,Jasmine M             CHG-ADDRESS  Business Administration 120    442-5490 Disability Resource Center      Office Assistant 2 (Keyboardi 08/15/2017 
+                                                                                  Campus Center 130                  
+Goodwin,Jeffrey M            CHG-ADDRESS  University Administration 331  437-4524 Enterprise Infrastructure Servi Associate Dir, Platform Servi 08/15/2017 
+                                                                                  ITB 103                            
+Guerrero,Ramon               CHG-ADDRESS  Richardson 108                 442-3797 School of Social Welfare        Staff Assistant               08/15/2017 
+                                                                                  Richardson 117                     
+Gueye,Papa I                 CHG-ADDRESS  Business Administration 110    442-4735 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Hammer,Erich F               CHG-ADDRESS  Business Administration 364    442-2651 CAS Computing Services          Asst Dir CAS ComputingService 08/15/2017 
+                                                                                  Biology 001                        
+Harun,Liran                  CHG-ADDRESS  SBA                            442-3400 Facilities Management           IT Manager, Facilities        08/15/2017 
+                                                                                  Service Building A - Room 121      
+Heim,John J                  CHG-ADDRESS  Business Administration 110    442-4735 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Herrmann,Susan Marie         CHG-ADDRESS  University Administration 317  437-3852 Enterprise Application Services Assoc Dir Bus Intel&Fincl Sol 08/15/2017 
+                                                                                  Management Services Center 203     
+Huffy,David P                CHG-ADDRESS  Business Administration 364    442-2651 CAS Computing Services          Desktop Support Specialist    08/15/2017 
+                                                                                  Biology 001                        
+Hurley,Theresa               CHG-ADDRESS  University Administration 312  437-4549 Enterprise Application Services Lead Programmer Analyst       08/15/2017 
+                                                                                  Management Services Center 203     
+Ivashchenko,Oleg I           CHG-ADDRESS  Business Administration 129F   442-4754 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Johnson,Annette M            CHG-ADDRESS  Business Administration 114    442-4730 Africana Studies                Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 161               
+Johnson,Mary-Francis K       GONE                                        956-8400 Student Health Services         Nurse 1                       08/15/2017 
+                                                                                  400 Patroon Creek Blvd Suite 200   
+Kaleel,Lovene                NEW                                         442-4391 Custodial Services              Cleaner                       09/20/2017 
+                                                                                  SBA                                
+Kelleher,Hillary S           CHG-ADDRESS  Business Administration 338    442-3347 Writing and Critical Inquiry    Lecturer (10 Month)           08/15/2017 
+                                                                                  LI B96                             
+Kim,Minhee                   CHG-ADDRESS  Business Administration 125C   442-4926 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Kitissou,Marcel I            CHG-ADDRESS  Business Administration 115    442-4730 Africana Studies                Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 161               
+Knapp III,Emerson W          GONE                                        442-3420 Parking & Mass Transit Service  Transportation Supervisor 1   08/15/2017 
+                                                                                  SBA Annex                          
+Knox,Haley L M               GONE                                        442-5055 Educational & Counseling Psych  Lecturer (10 Month)           09/07/2017 
+                                                                                  Education 233                      
+Koszuta,Andrew J             CHG-ADDRESS  University Administration 326  437-4735 Enterprise Infrastructure Servi Database Administrator        08/15/2017 
+                                                                                  Management Services Center 203     
+Lee,Minhee                   CHG-ADDRESS  Business Administration 109    442-4735 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Lehoe,Karen M                CHG-ADDRESS  Management Services Center 203 442-3195 Accounting                      Assnt Univ Financial Anal 08  08/15/2017 
+                                                                                  Management Services Center 326     
+Li,Ling                      GONE                                        442-2577 Ctr for Intrn Ed & Globl Strgy  Staff Assistant               09/07/2017 
+                                                                                  Humanities 254A                    
+Liu,Xiangshi                 CHG-ADDRESS  Business Administration 110A   442-4735 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Lopata,Jake E                CHG-ADDRESS  Business Administration 123D   442-4735 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Lu,Zheyuan                   CHG-ADDRESS  Business Administration 110A   442-4735 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Lyons,Christopher M          NEW                                         442-3706 Downtown Campus Maintenance     Office Assistant 2 (Keyboardi 09/20/2017 
+                                                                                  SBA                                
+Malloch,Carolyn B            CHG-ADDRESS  Business Administration 120    442-5490 Disability Resource Center      Dir, Disability Resource Ctr  08/15/2017 
+                                                                                  Campus Center 130                  
+Marrongelli,Mary E           NEW                                         442-3571 University Libraries            Office Assistant 1            09/15/2017 
+                                                                                  LI B93C                            
+Mauro,Mia A                  GONE                                        442-4100 Languages, Lits. & Cultures     Secretary I                   08/15/2017 
+                                                                                  Humanities 235                     
+Mejia-Juan,Arlene            NEW                                         442-5180 Educational Opportunity Prgrm   Research Aide                 09/15/2017 
+                                                                                  LI 94                              
+Micchelli,Charles A          GONE                                        442-4602 Mathematics and Statistics      Distinguished Professor       09/19/2017 
+                                                                                  Earth Science 110                  
+Miller,Mary Theresa H        CHG-ADDRESS  University Administration 312  437-4546 Enterprise Application Services Senior Solutions Specialist   08/15/2017 
+                                                                                  Management Services Center 203     
+Mulvey,Jude B                GONE                                        442-5210 School of Criminal Justice      Lecturer (10 Month)           09/19/2017 
+                                                                                  Draper 219                         
+Murphy,Christopher M         CHG-ADDRESS  Business Administration 330    442-3347 Writing and Critical Inquiry    Lecturer (10 Month)           08/15/2017 
+                                                                                  LI B96                             
+Nazzaro,Robert E             GONE                                        442-3400 Architecture, Engr, Const Mgmt  Senior Staff Assistant        08/07/2017 
+                                                                                  SBA                                
+Ngo,Duong Tran Thai          CHG-ADDRESS  Business Administration 129F   442-4926 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Olsen,Christopher D          GONE                                        442-2932 Empire Commons                  Grounds Worker                08/16/2017 
+                                                                                  SBA                                
+Orosz,Theodore V             GONE                                        442-4636 Geography & Planning            Lecturer (10 Month)           09/12/2017 
+                                                                                  Arts & Sciences 218                
+Ossenfort,Victoria Helene    CHG-ADDRESS  University Administration 312  437-4543 Enterprise Application Services Tching & Lrning Solution Spec 08/15/2017 
+                                                                                  Management Services Center 203     
+Patil,Vikram V               CHG-ADDRESS  University Administration 312  437-4753 Enterprise Application Services Systems Developer Analyst     08/15/2017 
+                                                                                  Management Services Center 203     
+Pleydle,Steven A             CHG-ADDRESS  Business Administration 109    442-4735 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Pulungan,Zulkarnain          CHG-ADDRESS  Business Administration 110    442-4735 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Robichaud,Timothy J          CHG-ADDRESS  University Administration 312  437-4545 Enterprise Infrastructure Servi Systems Architect             08/15/2017 
+                                                                                  Management Services Center 203     
+Rose-Boehnlein,Lauren        CHG-DEPTid   02402                          402-7217 Environmental Health Sciences   Research Project Assistant    09/21/2017 
+                                                                                  CRC East Campus 319                
+Russo,Ryan                   CHG-ADDRESS  University Administration 312  437-4545 Enterprise Infrastructure Servi Systems Administrator         08/15/2017 
+                                                                                  Management Services Center 203     
+Scanlan,Eileen               CHG-ADDRESS  Management Services Center 206 442-3195 Accounting                      Assistant Univ. Financial Ana 08/15/2017 
+                                                                                  Management Services Center 326     
+Schissler,Melinda R          CHG-ADDRESS  Management Services Center 203 442-3182 Accounting                      Office Assistant 3 (Calculati 08/15/2017 
+                                                                                  Management Services Center 326     
+Segal,Lewis M                CHG-ADDRESS  Business Administration 110A   442-4735 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Shaver,Jean C                GONE                                        442-5055 Educational & Counseling Psych  Lecturer (10 Month)           09/07/2017 
+                                                                                  Education 233                      
+Smith,Derik Jalal            CHG-NAME     Smith,Derik J                  442-4074 English                         Assistant Professor 10 Month  08/15/2017 
+                                                                                  Humanities 369                     
+Snyder,Carrie Elizabeth      CHG-ADDRESS  Business Administration 120    442-5490 Disability Resource Center      Senior Staff Assistant        08/15/2017 
+                                                                                  Campus Center 130                  
+Spensieri,Michael            CHG-NAME     Spensieri,Anthony A            442-3637 University Police Department    Campus Public Safety Officer  08/15/2017 
+                                                                                  University Police Building         
+Stella,Gregory P             CHG-ADDRESS  Business Administration 110    442-4735 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Strother,Helen M             CHG-ADDRESS  Business Administration 364    442-8020 CAS Computing Services          Director of CAS Computing Svc 08/15/2017 
+                                                                                  Biology 001                        
+Tse,Victor C                 CHG-ADDRESS  University Administration 324  437-4528 Enterprise Application Services Sr Web & Dig Sol Spec         08/15/2017 
+                                                                                  Management Services Center 203     
+Van Allen,Holly D            CHG-ADDRESS  University Administration 330  437-4547 Enterprise Application Services App Proj Manager              08/15/2017 
+                                                                                  Management Services Center 203     
+Vega,Carol A                 CHG-ADDRESS  University Administration 312  437-4544 Enterprise Application Services Senior Programmer/Analyst     08/15/2017 
+                                                                                  Management Services Center 203     
+Venkataraman,Sreekanth       CHG-ADDRESS  Business Administration 109    442-4735 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Viviano,Jason                NEW                                         442-5180 Educational Opportunity Prgrm   Research Aide                 09/20/2017 
+                                                                                  LI 94                              
+Wachtel,George P             GONE                                        442-3284 Roofing & Masonry Shop          Maintenance Assistant         09/20/2017 
+                                                                                  SBA                                
+Walser,James N               CHG-ADDRESS  University Administration 234  437-4517 Internal Audit                  Dir Of Internal Audit         08/15/2017 
+                                                                                  Management Services Center 309     
+Wang,Wuwei                   CHG-ADDRESS  Business Administration 127A   442-4926 Economics                       Lecturer (10 Month)           08/15/2017 
+                                                                                  Building 25 Room 103               
+Weatherwax,Ashley M          GONE                                        442-4636 Geography & Planning            Secretary I                   08/15/2017 
+                                                                                  Arts & Sciences 218                
+Weiss,Amanda Louise          CHG-ADDRESS  Business Administration 364    442-2651 CAS Computing Services          Keyboard Specialist I         08/15/2017 
+                                                                                  Biology 001                        
+Wood,Jayme R                 CHG-ADDRESS  University Administration 315  437-4597 Enterprise Application Services Solution Mgr, Academic Admin  08/15/2017 
+                                                                                  Management Services Center 203     
+Woofenden,Emily M            GONE                                        442-5055 Educational & Counseling Psych  Lecturer (10 Month)           09/12/2017 
+                                                                                  Education 233                      
+Zhang,Xiaonong               CHG-ADDRESS  Lecturer Center SB32           442-5923 CAS Computing Services          Senior Programmer Analyst     08/15/2017 
+                                                                                  Biology 001                        
+Zhang-Benavot,Jing           GONE                                        591-8172 Ctr for Intrn Ed & Globl Strgy  Senior Staff Assistant        08/16/2017 
+                                                                                  SL G40                             
+                         ******** end of report uahrxtel.txt **********                                                                               

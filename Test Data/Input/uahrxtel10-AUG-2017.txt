@@ -1,0 +1,143 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 04-AUG-2017 thru 10-AUG-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+Agudelo Cano,Juliana Maria   GONE                                        442-4400 Chemistry                       Research Assistant 08         08/09/2017 
+                                                                                  Chemistry 123                      
+Aksoy,Mustafa                NEW                                         442-3140 Electrical&CompEngr             Assistant Professor (10 Mo)   08/09/2017 
+                                                                                  LI 84A                             
+Ariel,Idan                   GONE                                                 Counseling  & Psychological Ser Doctoral Psychology Intern    08/08/2017 
+                                                                                  400 Patroon Creek Blvd Suite 104   
+Armiger,Jennifer J           GONE                                        442-5300 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Social Sciences 145                
+Barton,Michelle L            GONE                                        442-4666 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Arts & Sciences 349                
+Belanger,Shawna Lee          GONE                                        442-5140 Office Of General Studies & Sum Staff Assistant               08/09/2017 
+                                                                                  Social Science 110                 
+Belli,Vincenzo               GONE                                        442-4820 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Social Science 399                 
+Berschwinger,Sharon M        GONE                                        442-5100 Office Of General Studies & Sum Staff Assistant               08/09/2017 
+                                                                                  Education 333                      
+Bogin,David                  GONE                                        442-5055 Office Of General Studies & Sum Staff Assistant               08/09/2017 
+                                                                                  Education 233                      
+Bragulla,Sonia Margareta     GONE                                        442-3130 University Police Department    University Police Officer 1   07/06/2017 
+                                                                                  University Police Building         
+Breindel,Leonard             GONE                                        442-4442 Office Of General Studies & Sum Staff Assistant               08/09/2017 
+                                                                                  Chemistry 123                      
+Brooks,Jabari Nalo           GONE                                        442-5180 Educational Opportunity Prgrm   Technical Assistant (CSL)     08/04/2017 
+                                                                                  LI 94                              
+Carl,Diane C.                GONE                                        442-5100 Office Of General Studies & Sum Staff Assistant               08/09/2017 
+                                                                                  Education 333                      
+Chatnik,Beth A               GONE                                        442-5140 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Social Science 110                 
+Childs,Lindsay N             GONE                                        442-5140 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Social Science 110                 
+Colon,Lorianna Marie         GONE                                        442-4820 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Social Sciences 399                
+Cusick Brix,Megan Eileen     CHG-ADDRESS  SL G50                         442-5800 Counseling  & Psychological Ser Doctoral Psychology Intern    07/28/2017 
+                                                                                  400 Patroon Creek Blvd Suite 104   
+Cusick Brix,Megan Eileen     NEW                                         442-5800 Counseling  & Psychological Ser Doctoral Psychology Intern    08/09/2017 
+                                                                                  400 Patroon Creek Blvd Suite 104   
+DeGregorio,Tisa N            GONE                                        442-5100 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Education 336                      
+DeSarkar,Chandan             GONE                                        956-8339 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Business Building Room # 343       
+Dipeolu,Abiola               NEW                                         442-5056 Educational & Counseling Psycho Visiting Assistant Professor  08/05/2017 
+                                                                                  Education 220                      
+Dohner Jr,Eric A             CHG-ADDRESS  Physics 209                    442-4501 Physics                         Research Assistant 08         07/28/2017 
+                                                                                  Physics 126                        
+Dubovi,Abigail Seo-Youn      NEW                                         442-5800 Counseling  & Psychological Ser Doctoral Psychology Intern    08/09/2017 
+                                                                                  400 Patroon Creek Blvd Suite 104   
+Eacker,Halley Rebecca        GONE                                        442-5140 Office Of General Studies & Sum Staff Assistant               08/09/2017 
+                                                                                  Education 335                      
+Fahrenkopf,Nolan Peter       GONE                                        442-5258 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Drapper340                         
+Finin,Megan Harrison         GONE                                        956-8370 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Business Building 320              
+Fusco,Jennifer Carey         GONE                                        442-5140 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Social Science 110                 
+Gallant,Mary P               CHG-ADDRESS  Health Sciences Campus 159     402-0262 Health Policy                   Sr Assoc Dean for Aca Affairs 07/28/2017 
+                                                                                  Health Sciences Campus 107         
+Gao,Pengcheng                GONE                                        442-4400 Chemistry                       Research Assistant 08         08/09/2017 
+                                                                                  Chemistry 123                      
+Gremmler,Daniel E            GONE                                        442-4020 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Fine Arts 219                      
+Grossman,Jonathan Lee        GONE                                        442-4600 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Earth Science 110                  
+Holt,George R                NEW                                         442-3950 Office of Undergrad Education   Visiting Professor 10 Month   08/09/2017 
+                                                                                  Lecture Center 31                  
+Hwang,Injeong                GONE                                        442-5256 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Humanities 284                     
+Jarvis-Cedeno,Melissa        GONE                                        442-5180 Educational Opportunity Prgrm   Lecturer (10 Month)           08/04/2017 
+                                                                                  LI 94                              
+Joshi,Aparna Nitin           NEW                                         442-4270 Computer Science                Sr Research Support Spec      08/07/2017 
+                                                                                  LI 67A                             
+Judson,Darlene               GONE                                        442-5140 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Social Sciences 110                
+Killens,Jennifer             CHG-ADDRESS  University Administration 300  442-5333 Student Engagement              Secretary 1                   07/28/2017 
+                                                                                  Lecture Center 31                  
+Leo,Aaron S                  GONE                                        442-4700 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  141 2nd Ave                        
+Li,Fangning                  CHG-ADDRESS  Business Administration 109    442-4735 Office Of General Studies & Sum Lecturer (10 Month)           07/28/2017 
+                                                                                  Building 25, Suite 103             
+Li,Siyang                    CHG-ADDRESS  Business Administration 109    442-4735 Office Of General Studies & Sum Lecturer (10 Month)           07/28/2017 
+                                                                                  Building 25, Suite 103             
+Maher,Karen M                GONE                                        442-5140 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Social Sciences 110                
+McWilliams,Neusa Hidalgo-Mon GONE                                        442-4636 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Arts & Sciences 218                
+Mersand,Shannon Marie        GONE                                        442-5110 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Draper 113                         
+Moore,Kenneth W              GONE                                        442-4966 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Business Administration 323        
+Pasnik,Adam Paul             GONE                                        442-3130 University Police Department    University Police Officer 1   07/06/2017 
+                                                                                  University Police Building         
+Pettit,Olivia Catherine      NEW                                         437-4727 Human Resources Management      Benefits Assistant            08/07/2017 
+                                                                                  University Administration 300      
+Phrasavath,Laura             GONE                                        442-5050 Office Of General Studies & Sum Staff Assistant               08/09/2017 
+                                                                                  Education 220                      
+Roche,Sean Patrick           GONE                                        442-5214 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Draper 219A                        
+Sadykova,Gulnara V           GONE                                        442-5020 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Education 114                      
+Sarat,Maura Colleen          GONE                                        956-8330 Dean's Office--School of Busine Office Assistant 1            08/04/2017 
+                                                                                  Business Building 203              
+Sawyer,Jacob S               GONE                                        442-5800 Counseling  & Psychological Ser Doctoral Psychology Intern    08/08/2017 
+                                                                                  400 Patroon Creek Blvd             
+Shaye,Gerald                 GONE                                        956-8349 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Business Building 349              
+Shen,Fusheng                 GONE                                        442-4400 Chemistry                       Research Assistant 08         08/09/2017 
+                                                                                  Chemistry 123                      
+Slye,Katherine Elaine        GONE                                        442-5256 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Milne 101A                         
+Somers,Jessica               GONE                                        442-4713 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Arts & Sciences 120                
+Sooknanan,Terrence           NEW                                         442-3487 Electrical Shop                 Electrician                   08/07/2017 
+                                                                                                                     
+Spawn,Terry Albert           GONE                                        442-3299 Moving & Trucking               Laborer                       07/06/2017 
+                                                                                  SBA                                
+Spensieri,Anthony A          NEW                                         442-3130 University Police Department    Camp Public Sfty Officer 1    08/09/2017 
+                                                                                  University Police Building         
+Spriggs,Amanda Nicole        GONE                                        442-4700 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Arts & Sciences 237                
+Sullivan,Rachel Ann          GONE                                        442-5458 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Arts & Sciences 351                
+Sweeny,Elizabeth             GONE                                        956-8168 President's Office              Staff Assistant               08/04/2017 
+                                                                                  University Hall 104                
+Tice,Laura L                 GONE                                        442-5320 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Richardson 121                     
+Topal,Alan S                 CHG-ADDRESS  University Administration 323  437-4527 Enterprise Application Services Senior Staff Assistant        07/28/2017 
+                                                                                  Management Services Center 203     
+Tsai,Hsu-Chun                GONE                                        442-4400 Chemistry                       Research Assistant 08         08/09/2017 
+                                                                                  Chemistry 123                      
+Valsangkar,Vibhav Amit       GONE                                        442-4400 Chemistry                       Research Assistant 08         08/09/2017 
+                                                                                  Chemistry 123                      
+Weintraub,Jennifer           GONE                                        442-5210 Office Of General Studies & Sum Lecturer (10 Month)           08/09/2017 
+                                                                                  Draper 219                         
+Wood,Daniel R                GONE                                        442-5180 Educational Opportunity Prgrm   Lecturer (10 Month)           08/04/2017 
+                                                                                  LI 94                              
+Wynn,Colleen Elizabeth       CHG-ADDRESS  Arts & Sciences 348            442-4666 Office Of General Studies & Sum Lecturer (10 Month)           07/28/2017 
+                                                                                  Arts & Sciences 351                
+                         ******** end of report uahrxtel.txt **********                                                                               

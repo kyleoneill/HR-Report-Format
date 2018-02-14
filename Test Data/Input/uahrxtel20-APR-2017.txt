@@ -1,0 +1,31 @@
+                      HUMAN RESOURCES UPDATE REPORT FOR TELECOMMUNICATIONS PHONE OPERATORS                                                            
+                                   for 14-APR-2017 thru 20-APR-2017                                                                                   
+___________________________________________________________________________________________________________________________________________________________________
+NAME                         Update-Type  Old-Value                      PHONE    DEPT-DESCRIPTION                TITLE                         DATE
+                                                                                  ADDRESS                            
+___________________________________________________________________________________________________________________________________________________________________
+Davenport,Allison K          GONE                                        402-0330 School of Public Health Continu Project Coordinator - MDS/BER 04/14/2017 
+                                                                                  Health Sciences Campus 200         
+Heslop Jr.,Winston           CHG-NAME     Heslop,Winston                 442-5542 Ofc of Access and Acad Suprt    Academic Advisement Assistant 03/17/2017 
+                                                                                  LI 97G                             
+LaPorte,Mark S               GONE                                        442-3286 Residence Hall Maintenance Shop General Mechanic              04/18/2017 
+                                                                                  SBA                                
+Lasher,Judith A              CHG-ADDRESS  University Administration 402  442-3659 Institute for Teaching, Learnin Secretary 1                   03/17/2017 
+                                                                                  LI 69                              
+Mitchell,Dawna M             NEW                                         442-5509 Orientation & Transition Prgms  Secretary I                   04/14/2017 
+                                                                                  State Quad Eastman Tower           
+Phillips,Samantha C          NEW                                         956-8180 Natl Cntr-Scrty & Preparedness  Director                      04/17/2017 
+                                                                                  4 Tower Place Suite 600            
+Reed,Terrence P              GONE                                        442-3421 Parking & Mass Transit Service  Bus Driver                    03/17/2017 
+                                                                                  SBA Annex                          
+Scanlan,Claire J             NEW                                         591-8653 Women's Soccer                  Assnt Coach, Women's Soccer   04/20/2017 
+                                                                                  Physical Education 123             
+Seaman,Priscilla A           NEW                                         442-3546 University Libraries            Subj Lib, Anthro, Geo, Comm   04/20/2017 
+                                                                                  LI-140                             
+Tan,Jian Ming                GONE                                        442-3264 Custodial Services              Cleaner                       04/18/2017 
+                                                                                  SBA                                
+Wilson II,Theodore H         NEW                                         442-5214 School of Criminal Justice      Assistant Professor (10 Mo)   04/14/2017 
+                                                                                  Draper 219                         
+Wolf,Wendy N                 NEW                                         402-0281 Dean's Off-School of Pub Hlt    Office Assistant 1            04/20/2017 
+                                                                                  Health Sciences Campus GEC 100     
+                         ******** end of report uahrxtel.txt **********                                                                               
