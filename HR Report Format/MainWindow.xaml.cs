@@ -58,7 +58,15 @@ namespace HR_Report_Format
 		{
 			if(InputFolderText.Text != "" && OutputFolderText.Text != "")
 			{
-				Format.FormatDirectory(InputFolderText.Text, OutputFolderText.Text);
+				if (Format.ValidateSelection(InputFolderText.Text))
+				{
+					Format.FormatDirectory(InputFolderText.Text, OutputFolderText.Text);
+					Application.Current.Shutdown();
+				}
+				else
+				{
+					MessageBoxResult errorBox = MessageBox.Show("The selected input folder should only contain text files.", "Error", MessageBoxButton.OK);
+				}
 			}
 		}
 	}

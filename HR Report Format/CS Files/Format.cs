@@ -7,6 +7,19 @@ namespace HR_Report_Format
 {
 	public class Format
 	{
+		public static bool ValidateSelection(string inputDir)
+		{
+			string[] files = Directory.GetFiles(inputDir);
+			foreach(string file in files)
+			{
+				if(Path.GetExtension(file) != ".txt")
+				{
+					return false;
+				}
+			}
+			return true;
+		}
+
 		public static void FormatDirectory(string inputDir, string outputDir)
 		{
 			string[] files = Directory.GetFiles(inputDir);
