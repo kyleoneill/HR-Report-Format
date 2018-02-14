@@ -8,7 +8,7 @@
         Title="HR Formatting" Height="360" Width="600">
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\Images\background.png" Stretch="Uniform"/>
+            <ImageBrush ImageSource="Images/background.png"  Stretch="Uniform"/>
         </Grid.Background>
         <TextBox x:Name="InputFolderText" HorizontalAlignment="Left" Height="36" Margin="292,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="278" IsReadOnly="True"/>
         <TextBox x:Name="OutputFolderText" HorizontalAlignment="Left" Height="36" Margin="292,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="278" IsReadOnly="True"/>
