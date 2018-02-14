@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Text.RegularExpressions;
 
 namespace HR_Report_Format
 {
@@ -23,6 +24,42 @@ namespace HR_Report_Format
 		public MainWindow()
 		{
 			InitializeComponent();
+		}
+
+		private static void DirSelect(TextBox textbox)
+		{
+			var folderDialog = new System.Windows.Forms.FolderBrowserDialog();
+			var result = folderDialog.ShowDialog();
+			switch(result)
+			{
+				case System.Windows.Forms.DialogResult.OK:
+					var folder = folderDialog.SelectedPath;
+					textbox.Text = folder;
+					textbox.ToolTip = folder;
+					break;
+				case System.Windows.Forms.DialogResult.Cancel:
+					textbox.Text = null;
+					textbox.ToolTip = null;
+					break;
+			}
+		}
+
+		private void DirInButton_Click(object sender, RoutedEventArgs e)
+		{
+			DirSelect(InputFolderText);
+		}
+
+		private void DirOutButton_Click(object sender, RoutedEventArgs e)
+		{
+			DirSelect(OutputFolderText);
+		}
+
+		private void EnterButton_Click(object sender, RoutedEventArgs e)
+		{
+			if(InputFolderText.Text != "" && OutputFolderText.Text != "")
+			{
+				Format.FormatDirectory(InputFolderText.Text, OutputFolderText.Text);
+			}
 		}
 	}
 }

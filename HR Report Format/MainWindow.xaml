@@ -5,8 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HR_Report_Format"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="HR Formatting" Height="360" Width="600">
     <Grid>
-        
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\Images\background.png" Stretch="Uniform"/>
+        </Grid.Background>
+        <TextBox x:Name="InputFolderText" HorizontalAlignment="Left" Height="36" Margin="292,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="278" IsReadOnly="True"/>
+        <TextBox x:Name="OutputFolderText" HorizontalAlignment="Left" Height="36" Margin="292,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="278" IsReadOnly="True"/>
+        <Button x:Name="DirInButton" Content="Browse..." HorizontalAlignment="Left" Margin="161,98,0,0" VerticalAlignment="Top" Width="96" Height="36" Click="DirInButton_Click"/>
+        <Button x:Name="DirOutButton" Content="Browse..." HorizontalAlignment="Left" Margin="161,167,0,0" VerticalAlignment="Top" Width="96" Height="36" Click="DirOutButton_Click"/>
+        <Label Content="Select Input Folder" HorizontalAlignment="Left" Margin="20,98,0,0" VerticalAlignment="Top" Height="36" Width="121"/>
+        <Label Content="Select Output Folder" HorizontalAlignment="Left" Margin="20,167,0,0" VerticalAlignment="Top" Height="36" Width="121"/>
+        <Button x:Name="EnterButton" Content="Enter" HorizontalAlignment="Left" Margin="250,248,0,0" VerticalAlignment="Top" Width="96" Height="36" RenderTransformOrigin="1.115,3.083" Click="EnterButton_Click"/>
     </Grid>
 </Window>

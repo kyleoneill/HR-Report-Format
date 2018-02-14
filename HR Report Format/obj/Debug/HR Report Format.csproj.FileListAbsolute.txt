@@ -1,0 +1,15 @@
+C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\bin\Debug\HR Report Format.exe.config
+C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\bin\Debug\HR Report Format.exe
+C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\bin\Debug\HR Report Format.pdb
+C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\obj\Debug\HR Report Format.csprojResolveAssemblyReference.cache
+C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\obj\Debug\MainWindow.g.cs
+C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\obj\Debug\App.g.cs
+C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\obj\Debug\HR Report Format_MarkupCompile.cache
+C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\obj\Debug\HR Report Format_MarkupCompile.lref
+C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\obj\Debug\MainWindow.baml
+C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\obj\Debug\HR Report Format.g.resources
+C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\obj\Debug\HR_Report_Format.Properties.Resources.resources
+C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\obj\Debug\HR Report Format.csproj.GenerateResource.Cache
+C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\obj\Debug\HR Report Format.csproj.CoreCompileInputs.cache
+C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\obj\Debug\HR Report Format.exe
+C:\Users\kyleo\source\repos\HR Report Format\HR Report Format\obj\Debug\HR Report Format.pdb
